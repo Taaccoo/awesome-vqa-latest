@@ -20,7 +20,7 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 
 ### Papers
-#### Review Paper
+#### Review Papers
 
 - Mogadala, Aditya; Kalimuthu, Marimuthu; Klakow, Dietrich, **Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods**, arXiv:1907.09358   2019   [[Paper]](http://arxiv.org/abs/1907.09358)
 
@@ -391,6 +391,8 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 - Selvaraju, Ramprasaath R; Tendulkar, Purva; Parikh, Devi; Horvitz, Eric; Ribeiro, Marco Tulio; Nushi, Besmira; Kamar, Ece, **SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions**, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.pdf)
 
 #### Others
+
+- Tang, Ruixue and Ma, Chao and Zhang, Wei Emma and Wu, Qi and Yang, Xiaokang, **Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering**, arXiv:2007.09592 2020 [[Paper]](http://arxiv.org/abs/2007.09592)
 
 - Goel, Vatsal; Chandak, Mohit; Anand, Ashish; Guha, Prithwijit, **IQ-VQA: Intelligent Visual Question Answering**, arXiv:2007.04422   2020   [[Paper]](http://arxiv.org/abs/2007.04422)
 
