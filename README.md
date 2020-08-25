@@ -32,6 +32,9 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 #### Datasets
 
+- Mathew, Minesh and Tito, Ruben and Karatzas, Dimosthenis and Manmatha, R and Jawahar, CV, **Document Visual Question Answering Challenge 2020**, arXiv:2008.08899 2020 [[Paper]](http://arxiv.org/abs/2008.08899)
+  
+
 - Chou, Shih-Han; Chao, Wei-Lun; Lai, Wei-Sheng; Sun, Min; Yang, Ming-Hsuan, **Visual Question Answering on 360{\deg} Images**, The IEEE Winter Conference on Applications of Computer Vision 2020   [[Paper]](http://arxiv.org/abs/2001.03339)
 
 - Mathew, Minesh; Karatzas, Dimosthenis; Manmatha, R.; Jawahar, C. V., **DocVQA: A Dataset for VQA on Document Images**, nan 2020   [[Paper]](https://arxiv.org/abs/2007.00398v1)
