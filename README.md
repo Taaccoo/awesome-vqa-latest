@@ -1,7 +1,9 @@
 # Awesome Visual Question Answering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A constant updating reading list of resources dedicated to Visual Question Answering. Normally updating on every Wednesdays. Welcome to PR.
+A constant updating reading list of resources dedicated to Visual Question Answering.  
+
+Welcome to PR :smile:.
 
 ## Contents
 - [Papers](#papers)
