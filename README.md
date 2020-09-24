@@ -1,7 +1,7 @@
 # Awesome Visual Question Answering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A constant updating reading list of resources dedicated to Visual Question Answering.
+A constant updating reading list of resources dedicated to Visual Question Answering. Normally updating on every Wednesdays. Welcome to PR.
 
 ## Contents
 - [Papers](#papers)
@@ -21,6 +21,7 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 ### Papers
 #### Review Papers
+- Zhang, Dongxiang and Cao, Rui and Wu, Sai,**Information fusion in visual question answering**,Information Fusion 2019 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253518308893)
 
 - Mogadala, Aditya; Kalimuthu, Marimuthu; Klakow, Dietrich, **Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods**, arXiv:1907.09358   2019   [[Paper]](http://arxiv.org/abs/1907.09358)
 
@@ -32,7 +33,7 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 #### Datasets
 
--Garcia, Noa and Ye, Chentao and Liu, Zihua and Hu, Qingtao and Otani, Mayu and Chu, Chenhui and Nakashima, Yuta and Mitamura, Teruko,**A {Dataset**,arXiv:2008.12520 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
+- Garcia, Noa and Ye, Chentao and Liu, Zihua and Hu, Qingtao and Otani, Mayu and Chu, Chenhui and Nakashima, Yuta and Mitamura, Teruko,**A {Dataset} and {Baselines} for {Visual} {Question} {Answering} on {Art}**,arXiv:2008.12520 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
 
 - Mathew, Minesh and Tito, Ruben and Karatzas, Dimosthenis and Manmatha, R and Jawahar, CV, **Document Visual Question Answering Challenge 2020**, arXiv:2008.08899 2020 [[Paper]](http://arxiv.org/abs/2008.08899)
   
@@ -74,7 +75,7 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 - Agrawal, Aishwarya; Kembhavi, Aniruddha; Batra, Dhruv; Parikh, Devi, **C-VQA: A Compositional Split of the Visual Question Answering (VQA) v1.0 Dataset**, arXiv:1704.08243 2017   [[Paper]](https://arxiv.org/abs/1704.08243v1)
 
--Chattopadhyay, Prithvijit and Vedantam, Ramakrishna and Selvaraju, Ramprasaath R and Batra, Dhruv and Parikh, Devi,**Counting everyday objects in everyday scenes**,Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2017 [[Paper]](https://arxiv.org/abs/1604.03505v1)
+- Chattopadhyay, Prithvijit and Vedantam, Ramakrishna and Selvaraju, Ramprasaath R and Batra, Dhruv and Parikh, Devi,**Counting everyday objects in everyday scenes**,Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2017 [[Paper]](https://arxiv.org/abs/1604.03505v1)
 
 - Wang, Peng; Wu, Qi; Shen, Chunhua; Hengel, Anton van den; Dick, Anthony, **FVQA: Fact-based Visual Question Answering**, IEEE transactions on pattern analysis and machine intelligence 2016   [[Paper]](http://arxiv.org/abs/1606.05433)
 
@@ -98,6 +99,8 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 
 #### Joint Embedding
+- Zhang, Weifeng and Yu, Jing and Hu, Hua and Hu, Haiyang and Qin, Zengchang,**Multimodal feature fusion by relational reasoning and attention for visual question answering**,Information Fusion 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253518308248)
+
 - Zheng, Chen; Guo, Quan; Kordjamshidi, Parisa, **Cross-Modality Relevance for Reasoning on Language and Vision**, arXiv:2005.06035   2020   [[Paper]](http://arxiv.org/abs/2005.06035)
 
 - Fang, Zhiwei; Liu, Jing; Liu, Xueliang; Tang, Qu; Li, Yonghong; Lu, Hanqing, **BTDP: Toward Sparse Fusion with Block Term Decomposition Pooling for Visual Question Answering**, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 2019   [[Paper]](https://dl.acm.org/doi/abs/10.1145/3282469)
@@ -133,8 +136,9 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 
 #### Attention-Based 
+- Gao, Lianli and Cao, Liangfu and Xu, Xing and Shao, Jie and Song, Jingkuan,**Question-{Led} object attention for visual question answering**,Neurocomputing 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0925231219304163)
 
--KV, Gouthaman and Nambiar, Athira and Srinivas, Kancheti Sai and Mittal, Anurag,**Linguistically-aware Attention for Reducing the Semantic-Gap in Vision-Language Tasks**,arXiv preprint arXiv:2008.08012 2020 [[Paper]](http://arxiv.org/abs/2008.08012)
+- KV, Gouthaman and Nambiar, Athira and Srinivas, Kancheti Sai and Mittal, Anurag,**Linguistically-aware Attention for Reducing the Semantic-Gap in Vision-Language Tasks**,arXiv preprint arXiv:2008.08012 2020 [[Paper]](http://arxiv.org/abs/2008.08012)
 
 - Stefanini, Matteo; Cornia, Marcella; Baraldi, Lorenzo; Cucchiara, Rita, **A Novel Attention-based Aggregation Function to Combine Vision and Language**, arXiv:2004.13073   2020   [[Paper]](http://arxiv.org/abs/2004.13073)
 
@@ -148,7 +152,11 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 - Yu, Zhou; Yu, Jun; Cui, Yuhao; Tao, Dacheng; Tian, Qi, **Deep Modular Co-Attention Networks for Visual Question Answering**, Proceedings of the IEEE conference on computer vision and pattern recognition 2019   [[Paper]](http://arxiv.org/abs/1906.10770)
 
--Gao, Peng and Jiang, Zhengkai and You, Haoxuan and Lu, Pan and Hoi, Steven CH and Wang, Xiaogang and Li, Hongsheng,**Dynamic fusion with intra-and inter-modality attention flow for visual question answering**,Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2019 [[Paper]](http://arxiv.org/abs/1812.05252)
+- Hong, Jongkwang and Fu, Jianlong and Uh, Youngjung and Mei, Tao and Byun, Hyeran,**Exploiting hierarchical visual features for visual question answering**,Neurocomputing 2019 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0925231219303753)
+
+- Peng, Liang and Yang, Yang and Bin, Yi and Xie, Ning and Shen, Fumin and Ji, Yanli and Xu, Xing,**Word-to-region attention network for visual question answering**,Multimedia Tools and Applications 2019 [[Paper]](https://doi.org/10.1007/s11042-018-6389-3)
+
+- Gao, Peng and Jiang, Zhengkai and You, Haoxuan and Lu, Pan and Hoi, Steven CH and Wang, Xiaogang and Li, Hongsheng,**Dynamic fusion with intra-and inter-modality attention flow for visual question answering**,Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2019 [[Paper]](http://arxiv.org/abs/1812.05252)
 
 - Zhang, Yundong; Niebles, Juan Carlos; Soto, Alvaro, **Interpretable Visual Question Answering by Visual Grounding from Attention Supervision Mining**, 2019 IEEE Winter Conference on Applications of Computer Vision (WACV) 2018   [[Paper]](http://arxiv.org/abs/1808.00265)
 
@@ -198,9 +206,8 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 - Yang, Zichao; He, Xiaodong; Gao, Jianfeng; Deng, Li; Smola, Alex, **Stacked Attention Networks for Image Question Answering**, Proceedings of the IEEE conference on computer vision and pattern recognition 2015   [[Paper]](http://arxiv.org/abs/1511.02274)
 
-
-#### 
--Yu, Jing and Zhu, Zihao and Wang, Yujing and Zhang, Weifeng and Hu, Yue and Tan, Jianlong,**Cross-modal knowledge reasoning for knowledge-based visual question answering**,Pattern Recognition 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
+#### Knowledge-Based
+- Yu, Jing and Zhu, Zihao and Wang, Yujing and Zhang, Weifeng and Hu, Yue and Tan, Jianlong,**Cross-modal knowledge reasoning for knowledge-based visual question answering**,Pattern Recognition 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
 
 - Zhu, Zihao; Yu, Jing; Wang, Yujing; Sun, Yajing; Hu, Yue; Wu, Qi, **Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering**, arXiv:2006.09073   2020   [[Paper]](http://arxiv.org/abs/2006.09073)
 
@@ -227,7 +234,7 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 - Ma, Chao; Shen, Chunhua; Dick, Anthony; Wu, Qi; Wang, Peng; Hengel, Anton van den; Reid, Ian, **Visual Question Answering with Memory-Augmented Networks**, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2018   [[Paper]](http://arxiv.org/abs/1707.04968)
 
--Yang, Guangyu Robert and Ganichev, Igor and Wang, Xiao-Jing and Shlens, Jonathon and Sussillo, David,**A dataset and architecture for visual reasoning with a working memory**,European Conference on Computer Vision 2018 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-01249-6_44)
+- Yang, Guangyu Robert and Ganichev, Igor and Wang, Xiao-Jing and Shlens, Jonathon and Sussillo, David,**A dataset and architecture for visual reasoning with a working memory**,European Conference on Computer Vision 2018 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-01249-6_44)
 
 - Li, Guohao; Su, Hang; Zhu, Wenwu, **Incorporating External Knowledge to Answer Open-Domain Visual Questions with Dynamic Memory Networks**, arXiv:1712.00733   2017   [[Paper]](http://arxiv.org/abs/1712.00733)
 
@@ -248,6 +255,7 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 - Andreas, Jacob; Rohrbach, Marcus; Darrell, Trevor; Klein, Dan, **Neural Module Networks**, Proceedings of the IEEE conference on computer vision and pattern recognition 2015   [[Paper]](http://arxiv.org/abs/1511.02799)
 
 #### Graph and Neural-Symbolic
+- Zhu, Xi and Mao, Zhendong and Chen, Zhineng and Li, Yangyang and Wang, Zhaohui and Wang, Bin,**Object-difference drived graph convolutional networks for visual question answering**,Multimedia Tools and Applications 2020 [[Paper]](http://link.springer.com/10.1007/s11042-020-08790-0)
 
 - Guo, Dalu; Xu, Chang; Tao, Dacheng, **Bilinear Graph Networks for Visual Question Answering**, arXiv:1907.09815   2020   [[Paper]](http://arxiv.org/abs/1907.09815)
 
@@ -260,7 +268,7 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 - Zhang, Cuicui; Chao, Wei-Lun; Xuan, Dong, **An Empirical Study on Leveraging Scene Graphs for Visual Question Answering**, ArXiv 2019   [[Paper]](https://arxiv.org/pdf/1907.12133)
 
--Mao, Jiayuan and Gan, Chuang and Kohli, Pushmeet and Tenenbaum, Joshua B and Wu, Jiajun,**The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision**,arXiv preprint arXiv:1904.12584 2019 [[Paper]](https://arxiv.org/abs/1803.06092)
+- Mao, Jiayuan and Gan, Chuang and Kohli, Pushmeet and Tenenbaum, Joshua B and Wu, Jiajun,**The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision**,arXiv preprint arXiv:1904.12584 2019 [[Paper]](https://arxiv.org/abs/1803.06092)
 
 - Li, Linjie; Gan, Zhe; Cheng, Yu; Liu, Jingjing, **Relation-Aware Graph Attention Network for Visual Question Answering**, Proceedings of the IEEE International Conference on Computer Vision 2019   [[Paper]](https://arxiv.org/abs/1903.12314v3)
 
@@ -279,7 +287,7 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 #### Visual Reasoning
 
--Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic Language Binding in Relational Visual Reasoning**,arXiv preprint arXiv:2004.14603 2020 [[Paper]](http://arxiv.org/abs/2004.14603)
+- Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic Language Binding in Relational Visual Reasoning**,arXiv preprint arXiv:2004.14603 2020 [[Paper]](http://arxiv.org/abs/2004.14603)
 
 - Wu, Jialin; Mooney, Raymond J., **Self-Critical Reasoning for Robust Visual Question Answering**, Advances in Neural Information Processing Systems 2019   [[Paper]](http://arxiv.org/abs/1905.09998)
 
@@ -310,7 +318,9 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 #### Representation
 
--Shi, Lei and Shuang, Kai and Geng, Shijie and Su, Peng and Jiang, Zhengkai and Gao, Peng and Fu, Zuohui and de Melo, Gerard and Su, Sen,**Contrastive Visual-Linguistic Pretraining**,arXiv preprint arXiv:2007.13135 2020 [[Paper]](http://arxiv.org/abs/2007.13135)
+- Cho, Jaemin and Lu, Jiasen and Schwenk, Dustin and Hajishirzi, Hannaneh and Kembhavi, Aniruddha,**X-{LXMERT}: {Paint}, {Caption} and {Answer} {Questions} with {Multi}-{Modal} {Transformers}**,arXiv:2009.11278 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.11278)
+
+- Shi, Lei and Shuang, Kai and Geng, Shijie and Su, Peng and Jiang, Zhengkai and Gao, Peng and Fu, Zuohui and de Melo, Gerard and Su, Sen,**Contrastive Visual-Linguistic Pretraining**,arXiv preprint arXiv:2007.13135 2020 [[Paper]](http://arxiv.org/abs/2007.13135)
 
 - Li, Xiujun; Yin, Xi; Li, Chunyuan; Zhang, Pengchuan; Hu, Xiaowei; Zhang, Lei; Wang, Lijuan; Hu, Houdong; Dong, Li; Wei, Furu; Choi, Yejin; Gao, Jianfeng, **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**, arXiv:2004.06165   2020   [[Paper]](http://arxiv.org/abs/2004.06165)
 
@@ -332,6 +342,12 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 
 
 #### Diagnosis Method
+- Do, Tuong and Nguyen, Binh X. and Tran, Huy and Tjiputra, Erman and Tran, Quang D. and Do, Thanh-Toan,**Multiple interaction learning with question-type prior knowledge for constraining answer search space in visual question answering**,arXiv:2009.11118 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.11118)
+
+- Long, Yu and Tang, Pengjie and Wei, Zhihua and Gu, Jinjing and Wang, Hanli,**{RepeatPadding}: {Balancing} words and sentence length for language comprehension in visual question answering**,Information Sciences 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S002002552030342X)
+
+- Liu, Feng and Xiang, Tao and Hospedales, Timothy M. and Yang, Wankou and Sun, Changyin,**Inverse {Visual} {Question} {Answering}**,IEEE Transactions on Pattern Analysis and Machine Intelligence 2020 [[Paper]](https://ieeexplore.ieee.org/document/8528867/)
+
 - Halbe, Shaunak, **Exploring Weaknesses of VQA Models through Attribution Driven Insights**, arXiv:2006.06637   2020   [[Paper]](http://arxiv.org/abs/2006.06637)
 
 - Grand, Gabriel; Belinkov, Yonatan, **Adversarial Regularization for Visual Question Answering: Strengths, Shortcomings, and Side Effects**, arXiv:1906.08430 [cs, stat] 2019   [[Paper]](http://arxiv.org/abs/1906.08430)
@@ -413,7 +429,12 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 - Selvaraju, Ramprasaath R; Tendulkar, Purva; Parikh, Devi; Horvitz, Eric; Ribeiro, Marco Tulio; Nushi, Besmira; Kamar, Ece, **SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions**, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.pdf)
 
 #### Others
--Bansal, Ankan and Zhang, Yuting and Chellappa, Rama,**Visual Question Answering on Image Sets**,arXiv preprint arXiv:2008.11976 2020 [[Paper]](http://arxiv.org/abs/2008.11976)
+
+- Liu, Yun and Zhang, Xiaoming and Huang, Feiran and Zhou, Zhibo and Zhao, Zhonghua and Li, Zhoujun,**Visual {Question} {Answering} via {Combining} {Inferential} {Attention} and {Semantic} {Space} {Mapping}**,Knowledge-Based Systems 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0950705120304962)
+
+- Hong, Jongkwang and Park, Sungho and Byun, Hyeran,**Selective residual learning for {Visual} {Question} {Answering}**,Neurocomputing 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0925231220304859)
+
+- Bansal, Ankan and Zhang, Yuting and Chellappa, Rama,**Visual Question Answering on Image Sets**,arXiv preprint arXiv:2008.11976 2020 [[Paper]](http://arxiv.org/abs/2008.11976)
 
 - Tang, Ruixue and Ma, Chao and Zhang, Wei Emma and Wu, Qi and Yang, Xiaokang, **Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering**, arXiv:2007.09592 2020 [[Paper]](http://arxiv.org/abs/2007.09592)
 
@@ -436,6 +457,10 @@ A constant updating reading list of resources dedicated to Visual Question Answe
 - Li, Hui; Wang, Peng; Shen, Chunhua; Hengel, Anton van den, **Visual Question Answering as Reading Comprehension**, 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2019   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Visual_Question_Answering_as_Reading_Comprehension_CVPR_2019_paper.pdf)
 
 - Patro, Badri N.; Kumar, Sandeep; Kurmi, Vinod K.; Namboodiri, Vinay P., **Multimodal Differential Network for Visual Question Generation**, arXiv:1808.03986   2019   [[Paper]](http://arxiv.org/abs/1808.03986)
+
+- Ruwa, Nelson and Mao, Qirong and Wang, Liangjun and Gou, Jianping and Dong, Ming,**Mood-aware visual question answering**,Neurocomputing 2019 [[Paper]](http://www.sciencedirect.com/science/article/pii/S0925231218313808)
+
+- Toor, Andeep S. and Wechsler, Harry and Nappi, Michele,**Question action relevance and editing for visual question answering**,Multimedia Tools and Applications 2019 [[Paper]](http://link.springer.com/10.1007/s11042-018-6097-z)
 
 - Lu, Jiaying; Ye, Xin; Ren, Yi; Yang, Yezhou, **Good, Better, Best: Textual Distractors Generation for Multi-Choice VQA via Policy Gradient**, arXiv:1910.09134   2019   [[Paper]](http://arxiv.org/abs/1910.09134)
 
