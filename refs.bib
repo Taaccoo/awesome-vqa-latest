@@ -1968,3 +1968,157 @@
 	year = {2020},
 }
 
+
+@inproceedings{jang_tgif-qa_2017,
+	title = {{TGIF}-{QA}: {Toward} {Spatio}-{Temporal} {Reasoning} in {Visual} {Question} {Answering}},
+	shorttitle = {{TGIF}-{QA}},
+	url = {http://openaccess.thecvf.com/content_cvpr_2017/html/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.html},
+	urldate = {2020-01-15},
+	author = {Jang, Yunseok and Song, Yale and Yu, Youngjae and Kim, Youngjin and Kim, Gunhee},
+	year = {2017},
+	keywords = {\#},
+	pages = {2758--2766},
+	journal={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition}
+}
+
+@article{gokhale_mutant_2020,
+	title = {{MUTANT}: {A} {Training} {Paradigm} for {Out}-of-{Distribution} {Generalization} in {Visual} {Question} {Answering}},
+	shorttitle = {{MUTANT}},
+	url = {http://arxiv.org/abs/2009.08566},
+	abstract = {While progress has been made on the visual question answering leaderboards, models often utilize spurious correlations and priors in datasets under the i.i.d. setting. As such, evaluation on out-of-distribution (OOD) test samples has emerged as a proxy for generalization. In this paper, we present {\textbackslash}textit\{MUTANT\}, a training paradigm that exposes the model to perceptually similar, yet semantically distinct {\textbackslash}textit\{mutations\} of the input, to improve OOD generalization, such as the VQA-CP challenge. Under this paradigm, models utilize a consistency-constrained training objective to understand the effect of semantic changes in input (question-image pair) on the output (answer). Unlike existing methods on VQA-CP, {\textbackslash}textit\{MUTANT\} does not rely on the knowledge about the nature of train and test answer distributions. {\textbackslash}textit\{MUTANT\} establishes a new state-of-the-art accuracy on VQA-CP with a \$10.57{\textbackslash}\%\$ improvement. Our work opens up avenues for the use of semantic input mutations for OOD generalization in question answering.},
+	urldate = {2020-09-24},
+	journal = {arXiv:2009.08566 [cs]},
+	author = {Gokhale, Tejas and Banerjee, Pratyay and Baral, Chitta and Yang, Yezhou},
+	month = sep,
+	year = {2020}
+}
+
+@article{lee_regularizing_2020,
+	title = {Regularizing {Attention} {Networks} for {Anomaly} {Detection} in {Visual} {Question} {Answering}},
+	url = {http://arxiv.org/abs/2009.10054},
+	abstract = {For stability and reliability of real-world applications, the robustness of DNNs in unimodal tasks has been evaluated. However, few studies consider abnormal situations that a visual question answering (VQA) model might encounter at test time after deployment in the real-world. In this study, we evaluate the robustness of state-of-the-art VQA models to five different anomalies, including worst-case scenarios, the most frequent scenarios, and the current limitation of VQA models. Different from the results in unimodal tasks, the maximum confidence of answers in VQA models cannot detect anomalous inputs, and post-training of the outputs, such as outlier exposure, is ineffective for VQA models. Thus, we propose an attention-based method, which uses confidence of reasoning between input images and questions and shows much more promising results than the previous methods in unimodal tasks. In addition, we show that a maximum entropy regularization of attention networks can significantly improve the attention-based anomaly detection of the VQA models. Thanks to the simplicity, attention-based anomaly detection and the regularization are model-agnostic methods, which can be used for various cross-modal attentions in the state-of-the-art VQA models. The results imply that cross-modal attention in VQA is important to improve not only VQA accuracy, but also the robustness to various anomalies.},
+	urldate = {2020-09-24},
+	journal = {arXiv:2009.10054 [cs]},
+	author = {Lee, Doyup and Cheon, Yeongjae and Han, Wook-Shin},
+	month = sep,
+	year = {2020}
+}
+
+@article{cao_interpretable_2019,
+	title = {Interpretable {Visual} {Question} {Answering} by {Reasoning} on {Dependency} {Trees}},
+	issn = {0162-8828, 2160-9292, 1939-3539},
+	url = {https://ieeexplore.ieee.org/document/8847465/},
+	doi = {10.1109/TPAMI.2019.2943456},
+	abstract = {Collaborative reasoning for understanding image-question pairs is a very critical but underexplored topic in interpretable visual question answering systems. Although very recent studies have attempted to use explicit compositional processes to assemble multiple subtasks embedded in questions, their models heavily rely on annotations or handcrafted rules to obtain valid reasoning processes, which leads to either heavy workloads or poor performance on compositional reasoning. In this paper, to better align image and language domains in diverse and unrestricted cases, we propose a novel neural network model that performs global reasoning on a dependency tree parsed from the question; thus, our model is called a parse-tree-guided reasoning network (PTGRN). This network consists of three collaborative modules: i) an attention module that exploits the local visual evidence of each word parsed from the question, ii) a gated residual composition module that composes the previously mined evidence, and iii) a parse-tree-guided propagation module that passes the mined evidence along the parse tree. Thus, PTGRN is capable of building an interpretable visual question answering (VQA) system that gradually derives image cues following question-driven parse-tree reasoning. Experiments on relational datasets demonstrate the superiority of PTGRN over current state-of-the-art VQA methods, and the visualization results highlight the explainable capability of our reasoning system.},
+	language = {en},
+	urldate = {2020-09-24},
+	journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+	author = {Cao, Qingxing and Liang, Xiaodan and Li, Bailin and Lin, Liang},
+	year = {2019}
+}
+
+@article{liu_adversarial_2020,
+	title = {Adversarial {Learning} {With} {Multi}-{Modal} {Attention} for {Visual} {Question} {Answering}},
+	issn = {2162-237X, 2162-2388},
+	url = {https://ieeexplore.ieee.org/document/9174895/},
+	doi = {10.1109/TNNLS.2020.3016083},
+	abstract = {Visual question answering (VQA) has been proposed as a challenging task and attracted extensive research attention. It aims to learn a joint representation of the question–image pair for answer inference. Most of the existing methods focus on exploring the multi-modal correlation between the question and image to learn the joint representation. However, the answer-related information is not fully captured by these methods, which results that the learned representation is ineffective to reﬂect the answer of the question. To tackle this problem, we propose a novel model, i.e., adversarial learning with multi-modal attention (ALMA), for VQA. An adversarial learning-based framework is proposed to learn the joint representation to effectively reﬂect the answer-related information. Speciﬁcally, multi-modal attention with the Siamese similarity learning method is designed to build two embedding generators, i.e., question–image embedding and question–answer embedding. Then, adversarial learning is conducted as an interplay between the two embedding generators and an embedding discriminator. The generators have the purpose of generating two modalityinvariant representations for the question–image and question–answer pairs, whereas the embedding discriminator aims to discriminate the two representations. Both the multi-modal attention module and the adversarial networks are integrated into an end-to-end uniﬁed framework to infer the answer. Experiments performed on three benchmark data sets conﬁrm the favorable performance of ALMA compared with state-of-theart approaches.},
+	language = {en},
+	urldate = {2020-09-26},
+	journal = {IEEE Transactions on Neural Networks and Learning Systems},
+	author = {Liu, Yun and Zhang, Xiaoming and Huang, Feiran and Cheng, Lei and Li, Zhoujun},
+	year = {2020}
+}
+
+@article{gupta_hierarchical_2020,
+	title = {Hierarchical {Deep} {Multi}-modal {Network} for {Medical} {Visual} {Question} {Answering}},
+	url = {http://arxiv.org/abs/2009.12770},
+	abstract = {Visual Question Answering in Medical domain (VQA-Med) plays an important role in providing medical assistance to the end-users. These users are expected to raise either a straightforward question with a Yes/No answer or a challenging question that requires a detailed and descriptive answer. The existing techniques in VQA-Med fail to distinguish between the different question types sometimes complicates the simpler problems, or over-simplifies the complicated ones. It is certainly true that for different question types, several distinct systems can lead to confusion and discomfort for the end-users. To address this issue, we propose a hierarchical deep multi-modal network that analyzes and classifies end-user questions/queries and then incorporates a query-specific approach for answer prediction. We refer our proposed approach as Hierarchical Question Segregation based Visual Question Answering, in short HQS-VQA. Our contributions are three-fold, viz. firstly, we propose a question segregation (QS) technique for VQAMed; secondly, we integrate the QS model to the hierarchical deep multi-modal neural network to generate proper answers to the queries related to medical images; and thirdly, we study the impact of QS in Medical-VQA by comparing the performance of the proposed model with QS and a model without QS. We evaluate the performance of our proposed model on two benchmark datasets, viz. RAD and CLEF18. Experimental results show that our proposed HQS-VQA technique outperforms the baseline models with significant margins. We also conduct a detailed quantitative and qualitative analysis of the obtained results and discover potential causes of errors and their solutions.},
+	urldate = {2020-10-10},
+	journal = {arXiv:2009.12770 [cs]},
+	author = {Gupta, Deepak and Suman, Swati and Ekbal, Asif},
+	month = sep,
+	year = {2020}
+}
+
+@article{farazi_attention_2020,
+	title = {Attention {Guided} {Semantic} {Relationship} {Parsing} for {Visual} {Question} {Answering}},
+	url = {http://arxiv.org/abs/2010.01725},
+	abstract = {Humans explain inter-object relationships with semantic labels that demonstrate a high-level understanding required to perform complex Vision-Language tasks such as Visual Question Answering (VQA). However, existing VQA models represent relationships as a combination of object-level visual features which constrain a model to express interactions between objects in a single domain, while the model is trying to solve a multi-modal task. In this paper, we propose a general purpose semantic relationship parser which generates a semantic feature vector for each subject-predicate-object triplet in an image, and a Mutual and Self Attention (MSA) mechanism that learns to identify relationship triplets that are important to answer the given question. To motivate the significance of semantic relationships, we show an oracle setting with ground-truth relationship triplets, where our model achieves a {\textasciitilde}25\% accuracy gain over the closest state-of-the-art model on the challenging GQA dataset. Further, with our semantic parser, we show that our model outperforms other comparable approaches on VQA and GQA datasets.},
+	urldate = {2020-10-10},
+	journal = {arXiv:2010.01725 [cs]},
+	author = {Farazi, Moshiur and Khan, Salman and Barnes, Nick},
+	month = oct,
+	year = {2020}
+}
+
+@article{han_finding_2020,
+	title = {Finding the {Evidence}: {Localization}-aware {Answer} {Prediction} for {Text} {Visual} {Question} {Answering}},
+	shorttitle = {Finding the {Evidence}},
+	url = {http://arxiv.org/abs/2010.02582},
+	abstract = {Image text carries essential information to understand the scene and perform reasoning. Text-based visual question answering (text VQA) task focuses on visual questions that require reading text in images. Existing text VQA systems generate an answer by selecting from optical character recognition (OCR) texts or a fixed vocabulary. Positional information of text is underused and there is a lack of evidence for the generated answer. As such, this paper proposes a localization-aware answer prediction network (LaAP-Net) to address this challenge. Our LaAP-Net not only generates the answer to the question but also predicts a bounding box as evidence of the generated answer. Moreover, a context-enriched OCR representation (COR) for multimodal fusion is proposed to facilitate the localization task. Our proposed LaAP-Net outperforms existing approaches on three benchmark datasets for the text VQA task by a noticeable margin.},
+	urldate = {2020-10-10},
+	journal = {arXiv:2010.02582 [cs]},
+	author = {Han, Wei and Huang, Hantao and Han, Tao},
+	month = oct,
+	year = {2020}
+}
+
+@article{tang_interpretable_2020,
+	title = {Interpretable {Neural} {Computation} for {Real}-{World} {Compositional} {Visual} {Question} {Answering}},
+	url = {http://arxiv.org/abs/2010.04913},
+	abstract = {There are two main lines of research on visual question answering (VQA): compositional model with explicit multi-hop reasoning, and monolithic network with implicit reasoning in the latent feature space. The former excels in interpretability and compositionality but fails on real-world images, while the latter usually achieves better performance due to model flexibility and parameter efficiency. We aim to combine the two to build an interpretable framework for real-world compositional VQA. In our framework, images and questions are disentangled into scene graphs and programs, and a symbolic program executor runs on them with full transparency to select the attention regions, which are then iteratively passed to a visual-linguistic pre-trained encoder to predict answers. Experiments conducted on the GQA benchmark demonstrate that our framework outperforms the compositional prior arts and achieves competitive accuracy among monolithic ones. With respect to the validity, plausibility and distribution metrics, our framework surpasses others by a considerable margin.},
+	urldate = {2020-10-21},
+	journal = {arXiv:2010.04913 [cs]},
+	author = {Tang, Ruixue and Ma, Chao},
+	month = oct,
+	year = {2020}
+}
+
+@article{kant_contrast_2020,
+	title = {Contrast and {Classify}: {Alternate} {Training} for {Robust} {VQA}},
+	shorttitle = {Contrast and {Classify}},
+	url = {http://arxiv.org/abs/2010.06087},
+	abstract = {Recent Visual Question Answering (VQA) models have shown impressive performance on the VQA benchmark but remain sensitive to small linguistic variations in input questions. Existing approaches address this by augmenting the dataset with question paraphrases from visual question generation models or adversarial perturbations. These approaches use the combined data to learn an answer classifier by minimizing the standard cross-entropy loss. To more effectively leverage the augmented data, we build on the recent success in contrastive learning. We propose a novel training paradigm (ConCAT) that alternately optimizes cross-entropy and contrastive losses. The contrastive loss encourages representations to be robust to linguistic variations in questions while the cross-entropy loss preserves the discriminative power of the representations for answer classification. We find that alternately optimizing both losses is key to effective training. VQA models trained with ConCAT achieve higher consensus scores on the VQA-Rephrasings dataset as well as higher VQA accuracy on the VQA 2.0 dataset compared to existing approaches across a variety of data augmentation strategies.},
+	urldate = {2020-10-21},
+	journal = {arXiv:2010.06087 [cs]},
+	author = {Kant, Yash and Moudgil, Abhinav and Batra, Dhruv and Parikh, Devi and Agrawal, Harsh},
+	month = oct,
+	year = {2020}
+}
+
+@article{marasovic_natural_2020,
+	title = {Natural {Language} {Rationales} with {Full}-{Stack} {Visual} {Reasoning}: {From} {Pixels} to {Semantic} {Frames} to {Commonsense} {Graphs}},
+	shorttitle = {Natural {Language} {Rationales} with {Full}-{Stack} {Visual} {Reasoning}},
+	url = {http://arxiv.org/abs/2010.07526},
+	abstract = {Natural language rationales could provide intuitive, higher-level explanations that are easily understandable by humans, complementing the more broadly studied lower-level explanations based on gradients or attention weights. We present the first study focused on generating natural language rationales across several complex visual reasoning tasks: visual commonsense reasoning, visual-textual entailment, and visual question answering. The key challenge of accurate rationalization is comprehensive image understanding at all levels: not just their explicit content at the pixel level, but their contextual contents at the semantic and pragmatic levels. We present Rationale{\textasciicircum}VT Transformer, an integrated model that learns to generate free-text rationales by combining pretrained language models with object recognition, grounded visual semantic frames, and visual commonsense graphs. Our experiments show that the base pretrained language model benefits from visual adaptation and that free-text rationalization is a promising research direction to complement model interpretability for complex visual-textual reasoning tasks.},
+	urldate = {2020-10-21},
+	journal = {arXiv:2010.07526 [cs]},
+	author = {Marasović, Ana and Bhagavatula, Chandra and Park, Jae Sung and Bras, Ronan Le and Smith, Noah A. and Choi, Yejin},
+	month = oct,
+	year = {2020}
+}
+
+@article{huang_answer-checking_2020,
+	title = {Answer-checking in {Context}: {A} {Multi}-modal {FullyAttention} {Network} for {Visual} {Question} {Answering}},
+	shorttitle = {Answer-checking in {Context}},
+	url = {http://arxiv.org/abs/2010.08708},
+	abstract = {Visual Question Answering (VQA) is challenging due to the complex cross-modal relations. It has received extensive attention from the research community. From the human perspective, to answer a visual question, one needs to read the question and then refer to the image to generate an answer. This answer will then be checked against the question and image again for the final confirmation. In this paper, we mimic this process and propose a fully attention based VQA architecture. Moreover, an answer-checking module is proposed to perform a unified attention on the jointly answer, question and image representation to update the answer. This mimics the human answer checking process to consider the answer in the context. With answer-checking modules and transferred BERT layers, our model achieves the state-of-the-art accuracy 71.57{\textbackslash}\% using fewer parameters on VQA-v2.0 test-standard split.},
+	urldate = {2020-10-21},
+	journal = {arXiv:2010.08708 [cs]},
+	author = {Huang, Hantao and Han, Tao and Han, Wei and Yap, Deep and Chiang, Cheng-Ming},
+	month = oct,
+	year = {2020}
+}
+
+@article{dharur_sort-ing_2020,
+	title = {{SOrT}-ing {VQA} {Models} : {Contrastive} {Gradient} {Learning} for {Improved} {Consistency}},
+	shorttitle = {{SOrT}-ing {VQA} {Models}},
+	url = {http://arxiv.org/abs/2010.10038},
+	abstract = {Recent research in Visual Question Answering (VQA) has revealed state-of-the-art models to be inconsistent in their understanding of the world -- they answer seemingly difficult questions requiring reasoning correctly but get simpler associated sub-questions wrong. These sub-questions pertain to lower level visual concepts in the image that models ideally should understand to be able to answer the higher level question correctly. To address this, we first present a gradient-based interpretability approach to determine the questions most strongly correlated with the reasoning question on an image, and use this to evaluate VQA models on their ability to identify the relevant sub-questions needed to answer a reasoning question. Next, we propose a contrastive gradient learning based approach called Sub-question Oriented Tuning (SOrT) which encourages models to rank relevant sub-questions higher than irrelevant questions for an {\textless}\$image, reasoning-question\${\textgreater} pair. We show that SOrT improves model consistency by upto 6.5\% points over existing baselines, while also improving visual grounding.},
+	urldate = {2020-10-21},
+	journal = {arXiv:2010.10038 [cs]},
+	author = {Dharur, Sameer and Tendulkar, Purva and Batra, Dhruv and Parikh, Devi and Selvaraju, Ramprasaath R.},
+	month = oct,
+	year = {2020}
+}

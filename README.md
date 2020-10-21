@@ -138,6 +138,12 @@ Welcome to PR :smile:.
 
 
 #### Attention-Based 
+- Farazi, Moshiur and Khan, Salman and Barnes, Nick,**Attention {Guided} {Semantic} {Relationship} {Parsing} for {Visual} {Question} {Answering}**,arXiv:2010.01725 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.01725)
+
+- Liu, Yun and Zhang, Xiaoming and Huang, Feiran and Cheng, Lei and Li, Zhoujun,**Adversarial {Learning} {With} {Multi}-{Modal} {Attention} for {Visual} {Question} {Answering}**,IEEE Transactions on Neural Networks and Learning Systems 2020 [[Paper]](https://ieeexplore.ieee.org/document/9174895/)
+
+- Lee, Doyup and Cheon, Yeongjae and Han, Wook-Shin,**Regularizing {Attention} {Networks} for {Anomaly} {Detection} in {Visual} {Question} {Answering}**,arXiv:2009.10054 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.10054)
+
 - Gao, Lianli and Cao, Liangfu and Xu, Xing and Shao, Jie and Song, Jingkuan,**Question-{Led} object attention for visual question answering**,Neurocomputing 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0925231219304163)
 
 - KV, Gouthaman and Nambiar, Athira and Srinivas, Kancheti Sai and Mittal, Anurag,**Linguistically-aware Attention for Reducing the Semantic-Gap in Vision-Language Tasks**,arXiv preprint arXiv:2008.08012 2020 [[Paper]](http://arxiv.org/abs/2008.08012)
@@ -245,6 +251,7 @@ Welcome to PR :smile:.
 - Jiang, Aiwen; Wang, Fang; Porikli, Fatih; Li, Yi, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676   2015   [[Paper]](http://arxiv.org/abs/1511.05676)
 
 #### Modular Network 
+- Tang, Ruixue and Ma, Chao,**Interpretable {Neural} {Computation} for {Real}-{World} {Compositional} {Visual} {Question} {Answering}**,arXiv:2010.04913 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.04913)
 
 - Sur, Chiranjib, **Self-Segregating and Coordinated-Segregating Transformer for Focused Deep Multi-Modular Network for Visual Question Answering**, arXiv:2006.14264 2020   [[Paper]](https://arxiv.org/abs/2006.14264v1)
 
@@ -288,6 +295,7 @@ Welcome to PR :smile:.
 
 
 #### Visual Reasoning
+- Marasović, Ana and Bhagavatula, Chandra and Park, Jae Sung and Bras, Ronan Le and Smith, Noah A. and Choi, Yejin,**Natural {Language} {Rationales} with {Full}-{Stack} {Visual} {Reasoning}: {From} {Pixels} to {Semantic} {Frames} to {Commonsense} {Graphs}**,arXiv:2010.07526 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.07526)
 
 - Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic Language Binding in Relational Visual Reasoning**,arXiv preprint arXiv:2004.14603 2020 [[Paper]](http://arxiv.org/abs/2004.14603)
 
@@ -314,6 +322,8 @@ Welcome to PR :smile:.
 - Hu, Ronghang; Andreas, Jacob; Rohrbach, Marcus; Darrell, Trevor; Saenko, Kate, **Learning to Reason: End-to-End Module Networks for Visual Question Answering**, Proceedings of the IEEE International Conference on Computer Vision 2017   [[Paper]](http://arxiv.org/abs/1704.05526)
 
 - Santoro, Adam; Raposo, David; Barrett, David G. T.; Malinowski, Mateusz; Pascanu, Razvan; Battaglia, Peter; Lillicrap, Timothy, **A simple neural network module for relational reasoning**, Advances in neural information processing systems 2017   [[Paper]](http://arxiv.org/abs/1706.01427)
+
+- Jang, Yunseok and Song, Yale and Yu, Youngjae and Kim, Youngjin and Kim, Gunhee,**{TGIF}-{QA}: {Toward} {Spatio}-{Temporal} {Reasoning} in {Visual} {Question} {Answering}**,Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2017 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.html)
 
 - Johnson, Justin; Hariharan, Bharath; van der Maaten, Laurens; Hoffman, Judy; Fei-Fei, Li; Zitnick, C. Lawrence; Girshick, Ross, **Inferring and Executing Programs for Visual Reasoning**, Proceedings of the IEEE International Conference on Computer Vision 2017   [[Paper]](http://arxiv.org/abs/1705.03633)
 
@@ -344,6 +354,16 @@ Welcome to PR :smile:.
 
 
 #### Diagnosis Method
+- Dharur, Sameer and Tendulkar, Purva and Batra, Dhruv and Parikh, Devi and Selvaraju, Ramprasaath R.,**{SOrT}-ing {VQA} {Models} : {Contrastive} {Gradient} {Learning} for {Improved} {Consistency}**,arXiv:2010.10038 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.10038)
+
+- Huang, Hantao and Han, Tao and Han, Wei and Yap, Deep and Chiang, Cheng-Ming,**Answer-checking in {Context}: {A} {Multi}-modal {FullyAttention} {Network} for {Visual} {Question} {Answering}**,arXiv:2010.08708 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.08708)
+
+- Kant, Yash and Moudgil, Abhinav and Batra, Dhruv and Parikh, Devi and Agrawal, Harsh,**Contrast and {Classify}: {Alternate} {Training} for {Robust} {VQA}**,arXiv:2010.06087 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.06087)
+
+- Han, Wei and Huang, Hantao and Han, Tao,**Finding the {Evidence}: {Localization}-aware {Answer} {Prediction} for {Text} {Visual} {Question} {Answering}**,arXiv:2010.02582 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.02582)
+
+- Gokhale, Tejas and Banerjee, Pratyay and Baral, Chitta and Yang, Yezhou,**{MUTANT}: {A} {Training} {Paradigm} for {Out}-of-{Distribution} {Generalization} in {Visual} {Question} {Answering}**,arXiv:2009.08566 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.08566)
+
 - Do, Tuong and Nguyen, Binh X. and Tran, Huy and Tjiputra, Erman and Tran, Quang D. and Do, Thanh-Toan,**Multiple interaction learning with question-type prior knowledge for constraining answer search space in visual question answering**,arXiv:2009.11118 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.11118)
 
 - Long, Yu and Tang, Pengjie and Wei, Zhihua and Gu, Jinjing and Wang, Hanli,**{RepeatPadding}: {Balancing} words and sentence length for language comprehension in visual question answering**,Information Sciences 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S002002552030342X)
@@ -372,6 +392,8 @@ Welcome to PR :smile:.
 - Kolling, Camila; Wehrmann, Jônatas; Barros, Rodrigo C., **Component Analysis for Visual Question Answering Architectures**, arXiv:2002.05104   2020   [[Paper]](http://arxiv.org/abs/2002.05104)
 
 - van Steenkiste, Sjoerd; Locatello, Francesco; Schmidhuber, Jürgen; Bachem, Olivier, **Are Disentangled Representations Helpful for Abstract Visual Reasoning?**, Advances in Neural Information Processing Systems 2019   [[Paper]](http://arxiv.org/abs/1905.12506)
+
+- Cao, Qingxing and Liang, Xiaodan and Li, Bailin and Lin, Liang,**Interpretable {Visual} {Question} {Answering} by {Reasoning} on {Dependency} {Trees}**,IEEE Transactions on Pattern Analysis and Machine Intelligence 2019 [[Paper]](https://ieeexplore.ieee.org/document/8847465/)
 
 - Selvaraju, Ramprasaath R.; Lee, Stefan; Shen, Yilin; Jin, Hongxia; Ghosh, Shalini; Heck, Larry; Batra, Dhruv; Parikh, Devi, **Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded**, Proceedings of the IEEE International Conference on Computer Vision 2019   [[Paper]](http://arxiv.org/abs/1902.03751)
 

@@ -37,7 +37,7 @@ def format_bib(path):
         url = ""
         for i in item[0]:
             
-            if "title" in i and "book" not in i:
+            if "title" in i and "book" not in i and "shorttitle" not in i:
                 start,end = get_index_of_bracket(i)
                 title = i[start+1:end]
             elif "author" in i:
@@ -50,7 +50,7 @@ def format_bib(path):
                 start,end = get_index_of_bracket(i)
                 year = i[start+1:end]
             
-            elif "url" in i:
+            elif "url" in i and "urldate" not in i:
                 start,end = get_index_of_bracket(i)
                 url = i[start+1:end]
                 
@@ -59,4 +59,6 @@ def format_bib(path):
 
 
 if __name__ == "__main__":
-    print(format_bib("bib.txt"))
+    for item in format_bib("bib.txt"):
+        print(item)
+        print(" ")
