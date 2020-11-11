@@ -34,6 +34,9 @@ Welcome to PR :smile:.
 - Wu, Qi; Teney, Damien; Wang, Peng; Shen, Chunhua; Dick, Anthony; Hengel, Anton van den, **Visual Question Answering: A Survey of Methods and Datasets**, Computer Vision and Image Understanding 2016   [[Paper]](http://arxiv.org/abs/1607.05910)
 
 #### Datasets
+- Chen, Zhanwen and Li, Shiyao and Rashedi, Roxanne and Zi, Xiaoman and Elrod-Erickson, Morgan and Hollis, Bryan and Maliakal, Angela and Shen, Xinyu and Zhao, Simeng and Kunda, Maithilee,**Characterizing {Datasets} for {Social} {Visual} {Question} {Answering}, and the {New} {TinySocial} {Dataset}**,arXiv:2010.11997 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.11997)
+
+- He, Xuehai and Cai, Zhuo and Wei, Wenlan and Zhang, Yichen and Mou, Luntian and Xing, Eric and Xie, Pengtao,**Pathological {Visual} {Question} {Answering}**,arXiv:2010.11997 [cs] 2020 [[Paper]](https://arxiv.org/abs/2010.12435v1)
 
 - Garcia, Noa and Ye, Chentao and Liu, Zihua and Hu, Qingtao and Otani, Mayu and Chu, Chenhui and Nakashima, Yuta and Mitamura, Teruko,**A {Dataset} and {Baselines} for {Visual} {Question} {Answering} on {Art}**,arXiv:2008.12520 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
 
@@ -138,6 +141,8 @@ Welcome to PR :smile:.
 
 
 #### Attention-Based 
+- Rahman, Tanzila and Chou, Shih-Han and Sigal, Leonid and Carenini, Giuseppe,**An {Improved} {Attention} for {Visual} {Question} {Answering}**,arXiv:2011.02164 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.02164)
+
 - Farazi, Moshiur and Khan, Salman and Barnes, Nick,**Attention {Guided} {Semantic} {Relationship} {Parsing} for {Visual} {Question} {Answering}**,arXiv:2010.01725 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.01725)
 
 - Liu, Yun and Zhang, Xiaoming and Huang, Feiran and Cheng, Lei and Li, Zhoujun,**Adversarial {Learning} {With} {Multi}-{Modal} {Attention} for {Visual} {Question} {Answering}**,IEEE Transactions on Neural Networks and Learning Systems 2020 [[Paper]](https://ieeexplore.ieee.org/document/9174895/)
@@ -329,6 +334,7 @@ Welcome to PR :smile:.
 
 
 #### Representation
+- Khan, Aisha Urooj and Mazaheri, Amir and Lobo, Niels da Vitoria and Shah, Mubarak,**{MMFT}-{BERT}: {Multimodal} {Fusion} {Transformer} with {BERT} {Encodings} for {Visual} {Question} {Answering}**,arXiv:2010.14095 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.14095)
 
 - Cho, Jaemin and Lu, Jiasen and Schwenk, Dustin and Hajishirzi, Hannaneh and Kembhavi, Aniruddha,**X-{LXMERT}: {Paint}, {Caption} and {Answer} {Questions} with {Multi}-{Modal} {Transformers}**,arXiv:2009.11278 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.11278)
 
@@ -354,6 +360,10 @@ Welcome to PR :smile:.
 
 
 #### Diagnosis Method
+- Guo, Yangyang and Nie, Liqiang and Cheng, Zhiyong and Tian, Qi,**Loss-rescaling {VQA}: {Revisiting} {Language} {Prior} {Problem} from a {Class}-imbalance {View}**,arXiv:2010.16010 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.16010)
+
+- Dua, Radhika and Kancheti, Sai Srinivas and Balasubramanian, Vineeth N.,**Beyond {VQA}: {Generating} {Multi}-word {Answer} and {Rationale} to {Visual} {Questions}**,arXiv:2010.11997 [cs] 2020 [[Paper]](https://arxiv.org/abs/2010.12852v1)
+
 - Dharur, Sameer and Tendulkar, Purva and Batra, Dhruv and Parikh, Devi and Selvaraju, Ramprasaath R.,**{SOrT}-ing {VQA} {Models} : {Contrastive} {Gradient} {Learning} for {Improved} {Consistency}**,arXiv:2010.10038 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.10038)
 
 - Huang, Hantao and Han, Tao and Han, Wei and Yap, Deep and Chiang, Cheng-Ming,**Answer-checking in {Context}: {A} {Multi}-modal {FullyAttention} {Network} for {Visual} {Question} {Answering}**,arXiv:2010.08708 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.08708)
@@ -453,6 +463,7 @@ Welcome to PR :smile:.
 - Selvaraju, Ramprasaath R; Tendulkar, Purva; Parikh, Devi; Horvitz, Eric; Ribeiro, Marco Tulio; Nushi, Besmira; Kamar, Ece, **SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions**, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.pdf)
 
 #### Others
+- Frolov, Stanislav and Jolly, Shailza and Hees, Jörn and Dengel, Andreas,**Leveraging {Visual} {Question} {Answering} to {Improve} {Text}-to-{Image} {Synthesis}**,arXiv:2010.14953 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.14953)
 
 - Liu, Yun and Zhang, Xiaoming and Huang, Feiran and Zhou, Zhibo and Zhao, Zhonghua and Li, Zhoujun,**Visual {Question} {Answering} via {Combining} {Inferential} {Attention} and {Semantic} {Space} {Mapping}**,Knowledge-Based Systems 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0950705120304962)
 
