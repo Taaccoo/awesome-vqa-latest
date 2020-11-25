@@ -269,6 +269,8 @@ Welcome to PR :smile:.
 - Andreas, Jacob; Rohrbach, Marcus; Darrell, Trevor; Klein, Dan, **Neural Module Networks**, Proceedings of the IEEE conference on computer vision and pattern recognition 2015   [[Paper]](http://arxiv.org/abs/1511.02799)
 
 #### Graph and Neural-Symbolic
+- Liang, Weixin and Niu, Feiyang and Reganti, Aishwarya and Thattai, Govind and Tur, Gokhan,**{LRTA}: {A} {Transparent} {Neural}-{Symbolic} {Reasoning} {Framework} with {Modular} {Supervision} for {Visual} {Question} {Answering}**,arXiv:2011.10731 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10731)
+
 - Zhu, Xi and Mao, Zhendong and Chen, Zhineng and Li, Yangyang and Wang, Zhaohui and Wang, Bin,**Object-difference drived graph convolutional networks for visual question answering**,Multimedia Tools and Applications 2020 [[Paper]](http://link.springer.com/10.1007/s11042-020-08790-0)
 
 - Guo, Dalu; Xu, Chang; Tao, Dacheng, **Bilinear Graph Networks for Visual Question Answering**, arXiv:1907.09815   2020   [[Paper]](http://arxiv.org/abs/1907.09815)
@@ -300,6 +302,8 @@ Welcome to PR :smile:.
 
 
 #### Visual Reasoning
+- Wang, Zhonghao and Yu, Mo and Wang, Kai and Xiong, Jinjun and Hwu, Wen-mei and Hasegawa-Johnson, Mark and Shi, Humphrey,**Interpretable {Visual} {Reasoning} via {Induced} {Symbolic} {Space}**,arXiv:2011.11603 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.11603)
+
 - Marasović, Ana and Bhagavatula, Chandra and Park, Jae Sung and Bras, Ronan Le and Smith, Noah A. and Choi, Yejin,**Natural {Language} {Rationales} with {Full}-{Stack} {Visual} {Reasoning}: {From} {Pixels} to {Semantic} {Frames} to {Commonsense} {Graphs}**,arXiv:2010.07526 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.07526)
 
 - Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic Language Binding in Relational Visual Reasoning**,arXiv preprint arXiv:2004.14603 2020 [[Paper]](http://arxiv.org/abs/2004.14603)
@@ -360,6 +364,8 @@ Welcome to PR :smile:.
 
 
 #### Diagnosis Method
+- Le-Ngo, Anh-Cat and Tran, Truyen and Rana, Santu and Gupta, Sunil and Venkatesh, Svetha,**Logically {Consistent} {Loss} for {Visual} {Question} {Answering}**,arXiv:2011.10094 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10094)
+
 - Guo, Yangyang and Nie, Liqiang and Cheng, Zhiyong and Tian, Qi,**Loss-rescaling {VQA}: {Revisiting} {Language} {Prior} {Problem} from a {Class}-imbalance {View}**,arXiv:2010.16010 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.16010)
 
 - Dua, Radhika and Kancheti, Sai Srinivas and Balasubramanian, Vineeth N.,**Beyond {VQA}: {Generating} {Multi}-word {Answer} and {Rationale} to {Visual} {Questions}**,arXiv:2010.11997 [cs] 2020 [[Paper]](https://arxiv.org/abs/2010.12852v1)
