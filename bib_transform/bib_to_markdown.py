@@ -35,11 +35,12 @@ def format_bib(path):
     result = []
     for item in bib_text_list:
         url = ""
+
         for i in item[0]:
-            
-            if "title" in i and "book" not in i and "shorttitle" not in i:
+            if "title" in i[0:10] and "book" not in i[0:10] and "shorttitle" not in i[0:10]:
                 start,end = get_index_of_bracket(i)
                 title = i[start+1:end]
+                print(title)
             elif "author" in i:
                 start,end = get_index_of_bracket(i)
                 author = i[start+1:end]

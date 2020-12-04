@@ -302,6 +302,8 @@ Welcome to PR :smile:.
 
 
 #### Visual Reasoning
+- Hong, Xin and Lan, Yanyan and Pang, Liang and Guo, Jiafeng and Cheng, Xueqi,**Transformation {Driven} {Visual} {Reasoning}**,arXiv:2011.13160 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13160)
+
 - Wang, Zhonghao and Yu, Mo and Wang, Kai and Xiong, Jinjun and Hwu, Wen-mei and Hasegawa-Johnson, Mark and Shi, Humphrey,**Interpretable {Visual} {Reasoning} via {Induced} {Symbolic} {Space}**,arXiv:2011.11603 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.11603)
 
 - Marasović, Ana and Bhagavatula, Chandra and Park, Jae Sung and Bras, Ronan Le and Smith, Noah A. and Choi, Yejin,**Natural {Language} {Rationales} with {Full}-{Stack} {Visual} {Reasoning}: {From} {Pixels} to {Semantic} {Frames} to {Commonsense} {Graphs}**,arXiv:2010.07526 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.07526)
@@ -338,6 +340,8 @@ Welcome to PR :smile:.
 
 
 #### Representation
+- Bugliarello, Emanuele and Cotterell, Ryan and Okazaki, Naoaki and Elliott, Desmond,**Multimodal {Pretraining} {Unmasked}: {Unifying} the {Vision} and {Language} {BERTs}**,arXiv:2011.15124 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.15124)
+
 - Khan, Aisha Urooj and Mazaheri, Amir and Lobo, Niels da Vitoria and Shah, Mubarak,**{MMFT}-{BERT}: {Multimodal} {Fusion} {Transformer} with {BERT} {Encodings} for {Visual} {Question} {Answering}**,arXiv:2010.14095 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.14095)
 
 - Cho, Jaemin and Lu, Jiasen and Schwenk, Dustin and Hajishirzi, Hannaneh and Kembhavi, Aniruddha,**X-{LXMERT}: {Paint}, {Caption} and {Answer} {Questions} with {Multi}-{Modal} {Transformers}**,arXiv:2009.11278 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.11278)
@@ -364,6 +368,8 @@ Welcome to PR :smile:.
 
 
 #### Diagnosis Method
+- Whitehead, Spencer and Wu, Hui and Fung, Yi Ren and Ji, Heng and Feris, Rogerio and Saenko, Kate,**Learning from {Lexical} {Perturbations} for {Consistent} {Visual} {Question} {Answering}**,arXiv:2011.13406 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13406)
+
 - Le-Ngo, Anh-Cat and Tran, Truyen and Rana, Santu and Gupta, Sunil and Venkatesh, Svetha,**Logically {Consistent} {Loss} for {Visual} {Question} {Answering}**,arXiv:2011.10094 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10094)
 
 - Guo, Yangyang and Nie, Liqiang and Cheng, Zhiyong and Tian, Qi,**Loss-rescaling {VQA}: {Revisiting} {Language} {Prior} {Problem} from a {Class}-imbalance {View}**,arXiv:2010.16010 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.16010)
@@ -469,6 +475,10 @@ Welcome to PR :smile:.
 - Selvaraju, Ramprasaath R; Tendulkar, Purva; Parikh, Devi; Horvitz, Eric; Ribeiro, Marco Tulio; Nushi, Besmira; Kamar, Ece, **SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions**, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.pdf)
 
 #### Others
+- Mani, Arjun and Hinthorn, Will and Yoo, Nobline and Russakovsky, Olga,**Point and {Ask}: {Incorporating} {Pointing} into {Visual} {Question} {Answering}**,arXiv:2011.13681 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13681)
+
+- Ma, Jie and Liu, Jun and Li, Junjun and Zheng, Qinghua and Yin, Qingyu and Zhou, Jianlong and Huang, Yi,**{XTQA}: {Span}-{Level} {Explanations} of the {Textbook} {Question} {Answering}**,arXiv:2011.12662 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.12662)
+
 - Frolov, Stanislav and Jolly, Shailza and Hees, Jörn and Dengel, Andreas,**Leveraging {Visual} {Question} {Answering} to {Improve} {Text}-to-{Image} {Synthesis}**,arXiv:2010.14953 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.14953)
 
 - Liu, Yun and Zhang, Xiaoming and Huang, Feiran and Zhou, Zhibo and Zhao, Zhonghua and Li, Zhoujun,**Visual {Question} {Answering} via {Combining} {Inferential} {Attention} and {Semantic} {Space} {Mapping}**,Knowledge-Based Systems 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0950705120304962)
