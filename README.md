@@ -220,6 +220,10 @@ Welcome to PR :smile:.
 - Yang, Zichao; He, Xiaodong; Gao, Jianfeng; Deng, Li; Smola, Alex, **Stacked Attention Networks for Image Question Answering**, Proceedings of the IEEE conference on computer vision and pattern recognition 2015   [[Paper]](http://arxiv.org/abs/1511.02274)
 
 #### Knowledge-Based
+- Cao, Qingxing and Li, Bailin and Liang, Xiaodan and Wang, Keze and Lin, Liang,**Knowledge-{Routed} {Visual} {Question} {Reasoning}: {Challenges} for {Deep} {Representation} {Embedding}**,arXiv:2012.07192 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07192)
+
+- Song, Dandan and Ma, Siyi and Sun, Zhanchen and Yang, Sicheng and Liao, Lejian,**{KVL}-{BERT}: {Knowledge} {Enhanced} {Visual}-and-{Linguistic} {BERT} for {Visual} {Commonsense} {Reasoning}**,arXiv:2012.07000 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07000)
+
 - Yu, Jing and Zhu, Zihao and Wang, Yujing and Zhang, Weifeng and Hu, Yue and Tan, Jianlong,**Cross-modal knowledge reasoning for knowledge-based visual question answering**,Pattern Recognition 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
 
 - Zhu, Zihao; Yu, Jing; Wang, Yujing; Sun, Yajing; Hu, Yue; Wu, Qi, **Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering**, arXiv:2006.09073   2020   [[Paper]](http://arxiv.org/abs/2006.09073)
@@ -340,6 +344,10 @@ Welcome to PR :smile:.
 
 
 #### Representation
+- Wang, Jianfeng and Hu, Xiaowei and Zhang, Pengchuan and Li, Xiujun and Wang, Lijuan and Zhang, Lei and Gao, Jianfeng and Liu, Zicheng,**{MiniVLM}: {A} {Smaller} and {Faster} {Vision}-{Language} {Model}**,arXiv:2012.06946 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.06946)
+
+- Li, Linjie and Gan, Zhe and Liu, Jingjing,**A {Closer} {Look} at the {Robustness} of {Vision}-and-{Language} {Pre}-trained {Models}**,arXiv:2012.08673 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.08673)
+
 - Bugliarello, Emanuele and Cotterell, Ryan and Okazaki, Naoaki and Elliott, Desmond,**Multimodal {Pretraining} {Unmasked}: {Unifying} the {Vision} and {Language} {BERTs}**,arXiv:2011.15124 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.15124)
 
 - Khan, Aisha Urooj and Mazaheri, Amir and Lobo, Niels da Vitoria and Shah, Mubarak,**{MMFT}-{BERT}: {Multimodal} {Fusion} {Transformer} with {BERT} {Encodings} for {Visual} {Question} {Answering}**,arXiv:2010.14095 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.14095)
