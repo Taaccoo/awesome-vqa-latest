@@ -1,3 +1,23 @@
+## 2020-12-26
+- Uppal, Shagun and Bhagat, Sarthak and Hazarika, Devamanyu and Majumdar, Navonil and Poria, Soujanya and Zimmermann, Roger and Zadeh, Amir,**Multimodal {Research} in {Vision} and {Language}: {A} {Review} of {Current} and {Emerging} {Trends}**,arxiv 2020 [[Paper]](https://arxiv.org/abs/2010.09522v2)
+ 
+- Gardères, François and Ziaeefard, Maryam and Abeloos, Baptiste and Lecue, Freddy,**{ConceptBert}: {Concept}-{Aware} {Representation} for {Visual} {Question} {Answering}**,Findings of the Association for Computational Linguistics:EMNLP 2020 2020 [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.44)
+ 
+- Chen, Long and Yan, Xin and Xiao, Jun and Zhang, Hanwang and Pu, Shiliang and Zhuang, Yueting,**Counterfactual {Samples} {Synthesizing} for {Robust} {Visual} {Question} {Answering}**,IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020 [[Paper]](https://ieeexplore.ieee.org/document/9157377/)
+ 
+- Winterbottom, Thomas and Xiao, Sarah and McLean, Alistair and Moubayed, Noura Al,**On {Modality} {Bias} in the {TVQA} {Dataset}**,BMVC 2020 [[Paper]](http://arxiv.org/abs/2012.10210)
+ 
+- Marino, Kenneth and Chen, Xinlei and Parikh, Devi and Gupta, Abhinav and Rohrbach, Marcus,**{KRISP}: {Integrating} {Implicit} and {Symbolic} {Knowledge} for {Open}-{Domain} {Knowledge}-{Based} {VQA}**,arXiv:2012.11014 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11014)
+ 
+- Yang, Jianwei and Mao, Jiayuan and Wu, Jiajun and Parikh, Devi and Cox, David D. and Tenenbaum, Joshua B. and Gan, Chuang,**Object-{Centric} {Diagnosis} of {Visual} {Reasoning}**,arXiv:2012.11587 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11587)
+ 
+- Zhu, Xi and Mao, Zhendong and Liu, Chunxiao and Zhang, Peng and Wang, Bin and Zhang, Yongdong,**Overcoming {Language} {Priors} with {Self}-supervised {Learning} for {Visual} {Question} {Answering}**,IJCAI 2020 [[Paper]](http://arxiv.org/abs/2012.11528)
+ 
+- Dognin, Pierre and Melnyk, Igor and Mroueh, Youssef and Padhi, Inkit and Rigotti, Mattia and Ross, Jarret and Schiff, Yair and Young, Richard A. and Belgodere, Brian,**Image {Captioning} as an {Assistive} {Technology}: {Lessons} {Learned} from {VizWiz} 2020 {Challenge}**,arXiv:2012.11696 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11696)
+ 
+- Parcalabescu, Letitia and Gatt, Albert and Frank, Anette and Calixto, Iacer,**Seeing past words: {Testing} the cross-modal capabilities of pretrained {V}\&{L} models**,arXiv:2012.12352 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.12352)
+
+
 ## 2020-12-18
 - Song, Dandan and Ma, Siyi and Sun, Zhanchen and Yang, Sicheng and Liao, Lejian,**{KVL}-{BERT}: {Knowledge} {Enhanced} {Visual}-and-{Linguistic} {BERT} for {Visual} {Commonsense} {Reasoning}**,arXiv:2012.07000 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07000)
  

@@ -23,6 +23,8 @@ Welcome to PR :smile:.
 
 ### Papers
 #### Review Papers
+- Uppal, Shagun and Bhagat, Sarthak and Hazarika, Devamanyu and Majumdar, Navonil and Poria, Soujanya and Zimmermann, Roger and Zadeh, Amir,**Multimodal {Research} in {Vision} and {Language}: {A} {Review} of {Current} and {Emerging} {Trends}**,arxiv 2020 [[Paper]](https://arxiv.org/abs/2010.09522v2)
+ 
 - Zhang, Dongxiang and Cao, Rui and Wu, Sai,**Information fusion in visual question answering**,Information Fusion 2019 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253518308893)
 
 - Mogadala, Aditya; Kalimuthu, Marimuthu; Klakow, Dietrich, **Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods**, arXiv:1907.09358   2019   [[Paper]](http://arxiv.org/abs/1907.09358)
@@ -220,6 +222,8 @@ Welcome to PR :smile:.
 - Yang, Zichao; He, Xiaodong; Gao, Jianfeng; Deng, Li; Smola, Alex, **Stacked Attention Networks for Image Question Answering**, Proceedings of the IEEE conference on computer vision and pattern recognition 2015   [[Paper]](http://arxiv.org/abs/1511.02274)
 
 #### Knowledge-Based
+- Marino, Kenneth and Chen, Xinlei and Parikh, Devi and Gupta, Abhinav and Rohrbach, Marcus,**{KRISP}: {Integrating} {Implicit} and {Symbolic} {Knowledge} for {Open}-{Domain} {Knowledge}-{Based} {VQA}**,arXiv:2012.11014 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11014)
+
 - Cao, Qingxing and Li, Bailin and Liang, Xiaodan and Wang, Keze and Lin, Liang,**Knowledge-{Routed} {Visual} {Question} {Reasoning}: {Challenges} for {Deep} {Representation} {Embedding}**,arXiv:2012.07192 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07192)
 
 - Song, Dandan and Ma, Siyi and Sun, Zhanchen and Yang, Sicheng and Liao, Lejian,**{KVL}-{BERT}: {Knowledge} {Enhanced} {Visual}-and-{Linguistic} {BERT} for {Visual} {Commonsense} {Reasoning}**,arXiv:2012.07000 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07000)
@@ -306,6 +310,8 @@ Welcome to PR :smile:.
 
 
 #### Visual Reasoning
+- Yang, Jianwei and Mao, Jiayuan and Wu, Jiajun and Parikh, Devi and Cox, David D. and Tenenbaum, Joshua B. and Gan, Chuang,**Object-{Centric} {Diagnosis} of {Visual} {Reasoning}**,arXiv:2012.11587 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11587)
+
 - Hong, Xin and Lan, Yanyan and Pang, Liang and Guo, Jiafeng and Cheng, Xueqi,**Transformation {Driven} {Visual} {Reasoning}**,arXiv:2011.13160 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13160)
 
 - Wang, Zhonghao and Yu, Mo and Wang, Kai and Xiong, Jinjun and Hwu, Wen-mei and Hasegawa-Johnson, Mark and Shi, Humphrey,**Interpretable {Visual} {Reasoning} via {Induced} {Symbolic} {Space}**,arXiv:2011.11603 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.11603)
@@ -344,6 +350,10 @@ Welcome to PR :smile:.
 
 
 #### Representation
+- Parcalabescu, Letitia and Gatt, Albert and Frank, Anette and Calixto, Iacer,**Seeing past words: {Testing} the cross-modal capabilities of pretrained {V}\&{L} models**,arXiv:2012.12352 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.12352)
+
+- Gardères, François and Ziaeefard, Maryam and Abeloos, Baptiste and Lecue, Freddy,**{ConceptBert}: {Concept}-{Aware} {Representation} for {Visual} {Question} {Answering}**,Findings of the Association for Computational Linguistics:EMNLP 2020 2020 [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.44)
+
 - Wang, Jianfeng and Hu, Xiaowei and Zhang, Pengchuan and Li, Xiujun and Wang, Lijuan and Zhang, Lei and Gao, Jianfeng and Liu, Zicheng,**{MiniVLM}: {A} {Smaller} and {Faster} {Vision}-{Language} {Model}**,arXiv:2012.06946 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.06946)
 
 - Li, Linjie and Gan, Zhe and Liu, Jingjing,**A {Closer} {Look} at the {Robustness} of {Vision}-and-{Language} {Pre}-trained {Models}**,arXiv:2012.08673 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.08673)
@@ -376,6 +386,10 @@ Welcome to PR :smile:.
 
 
 #### Diagnosis Method
+- Zhu, Xi and Mao, Zhendong and Liu, Chunxiao and Zhang, Peng and Wang, Bin and Zhang, Yongdong,**Overcoming {Language} {Priors} with {Self}-supervised {Learning} for {Visual} {Question} {Answering}**,IJCAI 2020 [[Paper]](http://arxiv.org/abs/2012.11528)
+
+- Winterbottom, Thomas and Xiao, Sarah and McLean, Alistair and Moubayed, Noura Al,**On {Modality} {Bias} in the {TVQA} {Dataset}**,BMVC 2020 [[Paper]](http://arxiv.org/abs/2012.10210)
+
 - Whitehead, Spencer and Wu, Hui and Fung, Yi Ren and Ji, Heng and Feris, Rogerio and Saenko, Kate,**Learning from {Lexical} {Perturbations} for {Consistent} {Visual} {Question} {Answering}**,arXiv:2011.13406 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13406)
 
 - Le-Ngo, Anh-Cat and Tran, Truyen and Rana, Santu and Gupta, Sunil and Venkatesh, Svetha,**Logically {Consistent} {Loss} for {Visual} {Question} {Answering}**,arXiv:2011.10094 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10094)
@@ -482,7 +496,11 @@ Welcome to PR :smile:.
 
 - Selvaraju, Ramprasaath R; Tendulkar, Purva; Parikh, Devi; Horvitz, Eric; Ribeiro, Marco Tulio; Nushi, Besmira; Kamar, Ece, **SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions**, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.pdf)
 
-#### Others
+#### 
+- Dognin, Pierre and Melnyk, Igor and Mroueh, Youssef and Padhi, Inkit and Rigotti, Mattia and Ross, Jarret and Schiff, Yair and Young, Richard A. and Belgodere, Brian,**Image {Captioning} as an {Assistive} {Technology}: {Lessons} {Learned} from {VizWiz} 2020 {Challenge}**,arXiv:2012.11696 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11696)
+
+- Chen, Long and Yan, Xin and Xiao, Jun and Zhang, Hanwang and Pu, Shiliang and Zhuang, Yueting,**Counterfactual {Samples} {Synthesizing} for {Robust} {Visual} {Question} {Answering}**,IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020 [[Paper]](https://ieeexplore.ieee.org/document/9157377/)
+
 - Banerjee, Pratyay and Gokhale, Tejas and Yang, Yezhou and Baral, Chitta,**Self-{Supervised} {VQA}: {Answering} {Visual} {Questions} using {Images} and {Captions}**,arXiv:2012.02356 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.02356)
 
 - Patel, Alkesh and Bindal, Akanksha and Kotek, Hadas and Klein, Christopher and Williams, Jason,**Generating {Natural} {Questions} from {Images} for {Multimodal} {Assistants}**,arXiv:2012.03678 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.03678)
