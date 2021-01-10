@@ -1,3 +1,7 @@
+## 2020-1-10
+- Li, Wei and Gao, Can and Niu, Guocheng and Xiao, Xinyan and Liu, Hao and Liu, Jiachen and Wu, Hua and Wang, Haifeng,**{UNIMO}: {Towards} {Unified}-{Modal} {Understanding} and {Generation} via {Cross}-{Modal} {Contrastive} {Learning}**,arXiv:2012.15409 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.15409)
+ 
+- Zhang, Pengchuan and Li, Xiujun and Hu, Xiaowei and Yang, Jianwei and Zhang, Lei and Wang, Lijuan and Choi, Yejin and Gao, Jianfeng,**{VinVL}: {Making} {Visual} {Representations} {Matter} in {Vision}-{Language} {Models}**,arXiv:2101.00529 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.00529)
 ## 2020-12-26
 - Uppal, Shagun and Bhagat, Sarthak and Hazarika, Devamanyu and Majumdar, Navonil and Poria, Soujanya and Zimmermann, Roger and Zadeh, Amir,**Multimodal {Research} in {Vision} and {Language}: {A} {Review} of {Current} and {Emerging} {Trends}**,arxiv 2020 [[Paper]](https://arxiv.org/abs/2010.09522v2)
  

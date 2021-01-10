@@ -350,6 +350,10 @@ Welcome to PR :smile:.
 
 
 #### Representation
+- Zhang, Pengchuan and Li, Xiujun and Hu, Xiaowei and Yang, Jianwei and Zhang, Lei and Wang, Lijuan and Choi, Yejin and Gao, Jianfeng,**{VinVL}: {Making} {Visual} {Representations} {Matter} in {Vision}-{Language} {Models}**,arXiv:2101.00529 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.00529)
+
+- Li, Wei and Gao, Can and Niu, Guocheng and Xiao, Xinyan and Liu, Hao and Liu, Jiachen and Wu, Hua and Wang, Haifeng,**{UNIMO}: {Towards} {Unified}-{Modal} {Understanding} and {Generation} via {Cross}-{Modal} {Contrastive} {Learning}**,arXiv:2012.15409 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.15409)
+ 
 - Parcalabescu, Letitia and Gatt, Albert and Frank, Anette and Calixto, Iacer,**Seeing past words: {Testing} the cross-modal capabilities of pretrained {V}\&{L} models**,arXiv:2012.12352 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.12352)
 
 - Gardères, François and Ziaeefard, Maryam and Abeloos, Baptiste and Lecue, Freddy,**{ConceptBert}: {Concept}-{Aware} {Representation} for {Visual} {Question} {Answering}**,Findings of the Association for Computational Linguistics:EMNLP 2020 2020 [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.44)
