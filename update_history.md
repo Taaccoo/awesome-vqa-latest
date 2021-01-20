@@ -1,4 +1,13 @@
-## 2020-1-10
+## 2021-1-20
+- Damodaran, Vinay and Chakravarthy, Sharanya and Kumar, Akshay and Umapathy, Anjana and Mitamura, Teruko and Nakashima, Yuta and Garcia, Noa and Chu, Chenhui,**Understanding the {Role} of {Scene} {Graphs} in {Visual} {Question} {Answering}**,arXiv:2101.05479 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05479)
+ 
+- Patel, Devshree and Parikh, Ratnam and Shastri, Yesha,**Recent {Advances} in {Video} {Question} {Answering}: {A} {Review} of {Datasets} and {Methods}**,arXiv:2101.05954 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05954)
+ 
+- Shevchenko, Violetta and Teney, Damien and Dick, Anthony and Hengel, Anton van den,**Reasoning over {Vision} and {Language}: {Exploring} the {Benefits} of {Supplemental} {Knowledge}**,arXiv:2101.06013 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06013)
+ 
+- Wang, Zixu and Miao, Yishu and Specia, Lucia,**Latent {Variable} {Models} for {Visual} {Question} {Answering}**,arXiv:2101.06399 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06399)
+
+## 2021-1-10
 - Li, Wei and Gao, Can and Niu, Guocheng and Xiao, Xinyan and Liu, Hao and Liu, Jiachen and Wu, Hua and Wang, Haifeng,**{UNIMO}: {Towards} {Unified}-{Modal} {Understanding} and {Generation} via {Cross}-{Modal} {Contrastive} {Learning}**,arXiv:2012.15409 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.15409)
  
 - Zhang, Pengchuan and Li, Xiujun and Hu, Xiaowei and Yang, Jianwei and Zhang, Lei and Wang, Lijuan and Choi, Yejin and Gao, Jianfeng,**{VinVL}: {Making} {Visual} {Representations} {Matter} in {Vision}-{Language} {Models}**,arXiv:2101.00529 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.00529)

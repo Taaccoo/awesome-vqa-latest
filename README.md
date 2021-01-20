@@ -23,6 +23,8 @@ Welcome to PR :smile:.
 
 ### Papers
 #### Review Papers
+- Patel, Devshree and Parikh, Ratnam and Shastri, Yesha,**Recent {Advances} in {Video} {Question} {Answering}: {A} {Review} of {Datasets} and {Methods}**,arXiv:2101.05954 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05954)
+
 - Uppal, Shagun and Bhagat, Sarthak and Hazarika, Devamanyu and Majumdar, Navonil and Poria, Soujanya and Zimmermann, Roger and Zadeh, Amir,**Multimodal {Research} in {Vision} and {Language}: {A} {Review} of {Current} and {Emerging} {Trends}**,arxiv 2020 [[Paper]](https://arxiv.org/abs/2010.09522v2)
  
 - Zhang, Dongxiang and Cao, Rui and Wu, Sai,**Information fusion in visual question answering**,Information Fusion 2019 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253518308893)
@@ -222,6 +224,8 @@ Welcome to PR :smile:.
 - Yang, Zichao; He, Xiaodong; Gao, Jianfeng; Deng, Li; Smola, Alex, **Stacked Attention Networks for Image Question Answering**, Proceedings of the IEEE conference on computer vision and pattern recognition 2015   [[Paper]](http://arxiv.org/abs/1511.02274)
 
 #### Knowledge-Based
+- Shevchenko, Violetta and Teney, Damien and Dick, Anthony and Hengel, Anton van den,**Reasoning over {Vision} and {Language}: {Exploring} the {Benefits} of {Supplemental} {Knowledge}**,arXiv:2101.06013 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06013)
+
 - Marino, Kenneth and Chen, Xinlei and Parikh, Devi and Gupta, Abhinav and Rohrbach, Marcus,**{KRISP}: {Integrating} {Implicit} and {Symbolic} {Knowledge} for {Open}-{Domain} {Knowledge}-{Based} {VQA}**,arXiv:2012.11014 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11014)
 
 - Cao, Qingxing and Li, Bailin and Liang, Xiaodan and Wang, Keze and Lin, Liang,**Knowledge-{Routed} {Visual} {Question} {Reasoning}: {Challenges} for {Deep} {Representation} {Embedding}**,arXiv:2012.07192 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07192)
@@ -390,6 +394,8 @@ Welcome to PR :smile:.
 
 
 #### Diagnosis Method
+- Wang, Zixu and Miao, Yishu and Specia, Lucia,**Latent {Variable} {Models} for {Visual} {Question} {Answering}**,arXiv:2101.06399 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06399)
+
 - Zhu, Xi and Mao, Zhendong and Liu, Chunxiao and Zhang, Peng and Wang, Bin and Zhang, Yongdong,**Overcoming {Language} {Priors} with {Self}-supervised {Learning} for {Visual} {Question} {Answering}**,IJCAI 2020 [[Paper]](http://arxiv.org/abs/2012.11528)
 
 - Winterbottom, Thomas and Xiao, Sarah and McLean, Alistair and Moubayed, Noura Al,**On {Modality} {Bias} in the {TVQA} {Dataset}**,BMVC 2020 [[Paper]](http://arxiv.org/abs/2012.10210)
@@ -500,7 +506,9 @@ Welcome to PR :smile:.
 
 - Selvaraju, Ramprasaath R; Tendulkar, Purva; Parikh, Devi; Horvitz, Eric; Ribeiro, Marco Tulio; Nushi, Besmira; Kamar, Ece, **SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions**, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.pdf)
 
-#### 
+#### Other
+- Damodaran, Vinay and Chakravarthy, Sharanya and Kumar, Akshay and Umapathy, Anjana and Mitamura, Teruko and Nakashima, Yuta and Garcia, Noa and Chu, Chenhui,**Understanding the {Role} of {Scene} {Graphs} in {Visual} {Question} {Answering}**,arXiv:2101.05479 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05479)
+
 - Dognin, Pierre and Melnyk, Igor and Mroueh, Youssef and Padhi, Inkit and Rigotti, Mattia and Ross, Jarret and Schiff, Yair and Young, Richard A. and Belgodere, Brian,**Image {Captioning} as an {Assistive} {Technology}: {Lessons} {Learned} from {VizWiz} 2020 {Challenge}**,arXiv:2012.11696 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11696)
 
 - Chen, Long and Yan, Xin and Xiao, Jun and Zhang, Hanwang and Pu, Shiliang and Zhuang, Yueting,**Counterfactual {Samples} {Synthesizing} for {Robust} {Visual} {Question} {Answering}**,IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020 [[Paper]](https://ieeexplore.ieee.org/document/9157377/)
