@@ -1,3 +1,8 @@
+## 2021-2-9
+- Kim, Jung-Jun and Lee, Dong-Gyu and Wu, Jialin and Jung, Hong-Gyu and Lee, Seong-Whan,**Visual {Question} {Answering} based on {Local}-{Scene}-{Aware} {Referring} {Expression} {Generation}**,arXiv:2101.08978 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.08978)
+ 
+- Liu, Yibing and Guo, Yangyang and Yin, Jianhua and Song, Xuemeng and Liu, Weifeng and Nie, Liqiang,**Answer {Questions} with {Right} {Image} {Regions}: {A} {Visual} {Attention} {Regularization} {Approach}**,arXiv:2102.01916 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.01916)
+
 ## 2021-1-20
 - Damodaran, Vinay and Chakravarthy, Sharanya and Kumar, Akshay and Umapathy, Anjana and Mitamura, Teruko and Nakashima, Yuta and Garcia, Noa and Chu, Chenhui,**Understanding the {Role} of {Scene} {Graphs} in {Visual} {Question} {Answering}**,arXiv:2101.05479 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05479)
  

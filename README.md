@@ -281,6 +281,8 @@ Welcome to PR :smile:.
 - Andreas, Jacob; Rohrbach, Marcus; Darrell, Trevor; Klein, Dan, **Neural Module Networks**, Proceedings of the IEEE conference on computer vision and pattern recognition 2015   [[Paper]](http://arxiv.org/abs/1511.02799)
 
 #### Graph and Neural-Symbolic
+- Kim, Jung-Jun and Lee, Dong-Gyu and Wu, Jialin and Jung, Hong-Gyu and Lee, Seong-Whan,**Visual {Question} {Answering} based on {Local}-{Scene}-{Aware} {Referring} {Expression} {Generation}**,arXiv:2101.08978 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.08978)
+
 - Liang, Weixin and Niu, Feiyang and Reganti, Aishwarya and Thattai, Govind and Tur, Gokhan,**{LRTA}: {A} {Transparent} {Neural}-{Symbolic} {Reasoning} {Framework} with {Modular} {Supervision} for {Visual} {Question} {Answering}**,arXiv:2011.10731 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10731)
 
 - Zhu, Xi and Mao, Zhendong and Chen, Zhineng and Li, Yangyang and Wang, Zhaohui and Wang, Bin,**Object-difference drived graph convolutional networks for visual question answering**,Multimedia Tools and Applications 2020 [[Paper]](http://link.springer.com/10.1007/s11042-020-08790-0)
@@ -506,7 +508,9 @@ Welcome to PR :smile:.
 
 - Selvaraju, Ramprasaath R; Tendulkar, Purva; Parikh, Devi; Horvitz, Eric; Ribeiro, Marco Tulio; Nushi, Besmira; Kamar, Ece, **SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions**, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020   [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.pdf)
 
-#### Other
+#### Others
+- Liu, Yibing and Guo, Yangyang and Yin, Jianhua and Song, Xuemeng and Liu, Weifeng and Nie, Liqiang,**Answer {Questions} with {Right} {Image} {Regions}: {A} {Visual} {Attention} {Regularization} {Approach}**,arXiv:2102.01916 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.01916)
+
 - Damodaran, Vinay and Chakravarthy, Sharanya and Kumar, Akshay and Umapathy, Anjana and Mitamura, Teruko and Nakashima, Yuta and Garcia, Noa and Chu, Chenhui,**Understanding the {Role} of {Scene} {Graphs} in {Visual} {Question} {Answering}**,arXiv:2101.05479 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05479)
 
 - Dognin, Pierre and Melnyk, Igor and Mroueh, Youssef and Padhi, Inkit and Rigotti, Mattia and Ross, Jarret and Schiff, Yair and Young, Richard A. and Belgodere, Brian,**Image {Captioning} as an {Assistive} {Technology}: {Lessons} {Learned} from {VizWiz} 2020 {Challenge}**,arXiv:2012.11696 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11696)
