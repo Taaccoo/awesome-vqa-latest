@@ -1,3 +1,18 @@
+## 2021-2-24
+- Sharifzadeh, Sahand and Baharlou, Sina Moayed and Schmitt, Martin and Schütze, Hinrich and Tresp, Volker,**Improving {Visual} {Reasoning} by {Exploiting} {The} {Knowledge} in {Texts}**,arXiv:2102.04760 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.04760)
+ 
+- Jia, Chao and Yang, Yinfei and Xia, Ye and Chen, Yi-Ting and Parekh, Zarana and Pham, Hieu and Le, Quoc V. and Sung, Yunhsuan and Li, Zhen and Duerig, Tom,**Scaling {Up} {Visual} and {Vision}-{Language} {Representation} {Learning} {With} {Noisy} {Text} {Supervision}**,arXiv:2102.05918 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.05918)
+ 
+- Davis, Ernest,**Unanswerable {Questions} about {Images} and {Texts}**,Frontiers in Artificial Intelligence 2020 [[Paper]](http://arxiv.org/abs/2102.06793)
+ 
+- Liu, Bo and Zhan, Li-Ming and Xu, Li and Ma, Lin and Yang, Yan and Wu, Xiao-Ming,**{SLAKE}: {A} {Semantically}-{Labeled} {Knowledge}-{Enhanced} {Dataset} for {Medical} {Visual} {Question} {Answering}**,ISBI 2021 2021 [[Paper]](http://arxiv.org/abs/2102.09542)
+ 
+- Guo, Dalu and Tao, Dacheng,**Learning {Compositional} {Representation} for {Few}-shot {Visual} {Question} {Answering}**,arXiv:2102.10575 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.10575)
+ 
+- Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic {Language} {Binding} in {Relational} {Visual} {Reasoning}**,arXiv:2004.14603 [cs] 2021 [[Paper]](http://arxiv.org/abs/2004.14603)
+ 
+- Zhang, Weifeng and Yu, Jing and Zhao, Wenhong and Ran, Chuan,**{DMRFNet}: {Deep} {Multimodal} {Reasoning} and {Fusion} for {Visual} {Question} {Answering} and explanation generation**,Information Fusion 2021 [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253521000208)
+
 ## 2021-2-9
 - Kim, Jung-Jun and Lee, Dong-Gyu and Wu, Jialin and Jung, Hong-Gyu and Lee, Seong-Whan,**Visual {Question} {Answering} based on {Local}-{Scene}-{Aware} {Referring} {Expression} {Generation}**,arXiv:2101.08978 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.08978)
  

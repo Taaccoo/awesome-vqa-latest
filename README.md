@@ -38,6 +38,8 @@ Welcome to PR :smile:.
 - Wu, Qi; Teney, Damien; Wang, Peng; Shen, Chunhua; Dick, Anthony; Hengel, Anton van den, **Visual Question Answering: A Survey of Methods and Datasets**, Computer Vision and Image Understanding 2016   [[Paper]](http://arxiv.org/abs/1607.05910)
 
 #### Datasets
+- Liu, Bo and Zhan, Li-Ming and Xu, Li and Ma, Lin and Yang, Yan and Wu, Xiao-Ming,**{SLAKE}: {A} {Semantically}-{Labeled} {Knowledge}-{Enhanced} {Dataset} for {Medical} {Visual} {Question} {Answering}**,ISBI 2021 2021 [[Paper]](http://arxiv.org/abs/2102.09542)
+
 - Chen, Zhanwen and Li, Shiyao and Rashedi, Roxanne and Zi, Xiaoman and Elrod-Erickson, Morgan and Hollis, Bryan and Maliakal, Angela and Shen, Xinyu and Zhao, Simeng and Kunda, Maithilee,**Characterizing {Datasets} for {Social} {Visual} {Question} {Answering}, and the {New} {TinySocial} {Dataset}**,arXiv:2010.11997 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.11997)
 
 - He, Xuehai and Cai, Zhuo and Wei, Wenlan and Zhang, Yichen and Mou, Luntian and Xing, Eric and Xie, Pengtao,**Pathological {Visual} {Question} {Answering}**,arXiv:2010.11997 [cs] 2020 [[Paper]](https://arxiv.org/abs/2010.12435v1)
@@ -108,6 +110,8 @@ Welcome to PR :smile:.
 
 
 #### Joint Embedding
+- Zhang, Weifeng and Yu, Jing and Zhao, Wenhong and Ran, Chuan,**{DMRFNet}: {Deep} {Multimodal} {Reasoning} and {Fusion} for {Visual} {Question} {Answering} and explanation generation**,Information Fusion 2021 [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253521000208)
+
 - Zhang, Weifeng and Yu, Jing and Hu, Hua and Hu, Haiyang and Qin, Zengchang,**Multimodal feature fusion by relational reasoning and attention for visual question answering**,Information Fusion 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253518308248)
 
 - Zheng, Chen; Guo, Quan; Kordjamshidi, Parisa, **Cross-Modality Relevance for Reasoning on Language and Vision**, arXiv:2005.06035   2020   [[Paper]](http://arxiv.org/abs/2005.06035)
@@ -224,6 +228,8 @@ Welcome to PR :smile:.
 - Yang, Zichao; He, Xiaodong; Gao, Jianfeng; Deng, Li; Smola, Alex, **Stacked Attention Networks for Image Question Answering**, Proceedings of the IEEE conference on computer vision and pattern recognition 2015   [[Paper]](http://arxiv.org/abs/1511.02274)
 
 #### Knowledge-Based
+- Sharifzadeh, Sahand and Baharlou, Sina Moayed and Schmitt, Martin and Schütze, Hinrich and Tresp, Volker,**Improving {Visual} {Reasoning} by {Exploiting} {The} {Knowledge} in {Texts}**,arXiv:2102.04760 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.04760)
+
 - Shevchenko, Violetta and Teney, Damien and Dick, Anthony and Hengel, Anton van den,**Reasoning over {Vision} and {Language}: {Exploring} the {Benefits} of {Supplemental} {Knowledge}**,arXiv:2101.06013 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06013)
 
 - Marino, Kenneth and Chen, Xinlei and Parikh, Devi and Gupta, Abhinav and Rohrbach, Marcus,**{KRISP}: {Integrating} {Implicit} and {Symbolic} {Knowledge} for {Open}-{Domain} {Knowledge}-{Based} {VQA}**,arXiv:2012.11014 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11014)
@@ -268,6 +274,8 @@ Welcome to PR :smile:.
 - Jiang, Aiwen; Wang, Fang; Porikli, Fatih; Li, Yi, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676   2015   [[Paper]](http://arxiv.org/abs/1511.05676)
 
 #### Modular Network 
+- Guo, Dalu and Tao, Dacheng,**Learning {Compositional} {Representation} for {Few}-shot {Visual} {Question} {Answering}**,arXiv:2102.10575 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.10575)
+
 - Tang, Ruixue and Ma, Chao,**Interpretable {Neural} {Computation} for {Real}-{World} {Compositional} {Visual} {Question} {Answering}**,arXiv:2010.04913 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.04913)
 
 - Sur, Chiranjib, **Self-Segregating and Coordinated-Segregating Transformer for Focused Deep Multi-Modular Network for Visual Question Answering**, arXiv:2006.14264 2020   [[Paper]](https://arxiv.org/abs/2006.14264v1)
@@ -316,6 +324,8 @@ Welcome to PR :smile:.
 
 
 #### Visual Reasoning
+- Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic {Language} {Binding} in {Relational} {Visual} {Reasoning}**,arXiv:2004.14603 [cs] 2021 [[Paper]](http://arxiv.org/abs/2004.14603)
+
 - Yang, Jianwei and Mao, Jiayuan and Wu, Jiajun and Parikh, Devi and Cox, David D. and Tenenbaum, Joshua B. and Gan, Chuang,**Object-{Centric} {Diagnosis} of {Visual} {Reasoning}**,arXiv:2012.11587 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11587)
 
 - Hong, Xin and Lan, Yanyan and Pang, Liang and Guo, Jiafeng and Cheng, Xueqi,**Transformation {Driven} {Visual} {Reasoning}**,arXiv:2011.13160 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13160)
@@ -356,6 +366,8 @@ Welcome to PR :smile:.
 
 
 #### Representation
+- Jia, Chao and Yang, Yinfei and Xia, Ye and Chen, Yi-Ting and Parekh, Zarana and Pham, Hieu and Le, Quoc V. and Sung, Yunhsuan and Li, Zhen and Duerig, Tom,**Scaling {Up} {Visual} and {Vision}-{Language} {Representation} {Learning} {With} {Noisy} {Text} {Supervision}**,arXiv:2102.05918 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.05918)
+
 - Zhang, Pengchuan and Li, Xiujun and Hu, Xiaowei and Yang, Jianwei and Zhang, Lei and Wang, Lijuan and Choi, Yejin and Gao, Jianfeng,**{VinVL}: {Making} {Visual} {Representations} {Matter} in {Vision}-{Language} {Models}**,arXiv:2101.00529 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.00529)
 
 - Li, Wei and Gao, Can and Niu, Guocheng and Xiao, Xinyan and Liu, Hao and Liu, Jiachen and Wu, Hua and Wang, Haifeng,**{UNIMO}: {Towards} {Unified}-{Modal} {Understanding} and {Generation} via {Cross}-{Modal} {Contrastive} {Learning}**,arXiv:2012.15409 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.15409)
@@ -396,6 +408,8 @@ Welcome to PR :smile:.
 
 
 #### Diagnosis Method
+- Davis, Ernest,**Unanswerable {Questions} about {Images} and {Texts}**,Frontiers in Artificial Intelligence 2020 [[Paper]](http://arxiv.org/abs/2102.06793)
+
 - Wang, Zixu and Miao, Yishu and Specia, Lucia,**Latent {Variable} {Models} for {Visual} {Question} {Answering}**,arXiv:2101.06399 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06399)
 
 - Zhu, Xi and Mao, Zhendong and Liu, Chunxiao and Zhang, Peng and Wang, Bin and Zhang, Yongdong,**Overcoming {Language} {Priors} with {Self}-supervised {Learning} for {Visual} {Question} {Answering}**,IJCAI 2020 [[Paper]](http://arxiv.org/abs/2012.11528)
