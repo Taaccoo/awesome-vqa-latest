@@ -17,6 +17,8 @@ Welcome to PR :smile:.
 - [Representation](papers/representation.md)
 - [Visual Reasoning](papers/visual_reasoning.md)
 - [Diagnosis Method](papers/diagnosis_method.md)
+- [3D VQA](paper/vqa_3d.md)
+- [Causal Reasoning](paper/causal_reasoning.md)
 - [Others](papers/others.md)
 
 

@@ -1,16 +1,16 @@
 ## [Datasets](../README.md)
 
-- Liu, Bo and Zhan, Li-Ming and Xu, Li and Ma, Lin and Yang, Yan and Wu, Xiao-Ming,**{SLAKE}: {A} {Semantically}-{Labeled} {Knowledge}-{Enhanced} {Dataset} for {Medical} {Visual} {Question} {Answering}**,ISBI 2021 2021 [[Paper]](http://arxiv.org/abs/2102.09542)
+- Liu, Bo and Zhan, Li-Ming and Xu, Li and Ma, Lin and Yang, Yan and Wu, Xiao-Ming,**SLAKE: A Semantically-Labeled Knowledge-Enhanced Dataset for Medical Visual Question Answering**,ISBI 2021 2021 [[Paper]](http://arxiv.org/abs/2102.09542)
 
-- Chen, Zhanwen and Li, Shiyao and Rashedi, Roxanne and Zi, Xiaoman and Elrod-Erickson, Morgan and Hollis, Bryan and Maliakal, Angela and Shen, Xinyu and Zhao, Simeng and Kunda, Maithilee,**Characterizing {Datasets} for {Social} {Visual} {Question} {Answering}, and the {New} {TinySocial} {Dataset}**,arXiv:2010.11997 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.11997)
+- Chen, Zhanwen and Li, Shiyao and Rashedi, Roxanne and Zi, Xiaoman and Elrod-Erickson, Morgan and Hollis, Bryan and Maliakal, Angela and Shen, Xinyu and Zhao, Simeng and Kunda, Maithilee,**Characterizing Datasets for Social Visual Question Answering, and the New TinySocial Dataset**,arXiv:2010.11997 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.11997)
 
-- He, Xuehai and Cai, Zhuo and Wei, Wenlan and Zhang, Yichen and Mou, Luntian and Xing, Eric and Xie, Pengtao,**Pathological {Visual} {Question} {Answering}**,arXiv:2010.11997 [cs] 2020 [[Paper]](https://arxiv.org/abs/2010.12435v1)
+- He, Xuehai and Cai, Zhuo and Wei, Wenlan and Zhang, Yichen and Mou, Luntian and Xing, Eric and Xie, Pengtao,**Pathological Visual Question Answering**,arXiv:2010.11997 [cs] 2020 [[Paper]](https://arxiv.org/abs/2010.12435v1)
 
-- Garcia, Noa and Ye, Chentao and Liu, Zihua and Hu, Qingtao and Otani, Mayu and Chu, Chenhui and Nakashima, Yuta and Mitamura, Teruko,**A {Dataset} and {Baselines} for {Visual} {Question} {Answering} on {Art}**,arXiv:2008.12520 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
+- Garcia, Noa and Ye, Chentao and Liu, Zihua and Hu, Qingtao and Otani, Mayu and Chu, Chenhui and Nakashima, Yuta and Mitamura, Teruko,**A Dataset and Baselines for Visual Question Answering on Art**,arXiv:2008.12520 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
 
 - Mathew, Minesh and Tito, Ruben and Karatzas, Dimosthenis and Manmatha, R and Jawahar, CV, **Document Visual Question Answering Challenge 2020**, arXiv:2008.08899 2020 [[Paper]](http://arxiv.org/abs/2008.08899)
   
-- Chou, Shih-Han; Chao, Wei-Lun; Lai, Wei-Sheng; Sun, Min; Yang, Ming-Hsuan, **Visual Question Answering on 360{\deg} Images**, The IEEE Winter Conference on Applications of Computer Vision 2020   [[Paper]](http://arxiv.org/abs/2001.03339)
+- Chou, Shih-Han; Chao, Wei-Lun; Lai, Wei-Sheng; Sun, Min; Yang, Ming-Hsuan, **Visual Question Answering on 360\deg Images**, The IEEE Winter Conference on Applications of Computer Vision 2020   [[Paper]](http://arxiv.org/abs/2001.03339)
 
 - Mathew, Minesh; Karatzas, Dimosthenis; Manmatha, R.; Jawahar, C. V., **DocVQA: A Dataset for VQA on Document Images**, nan 2020   [[Paper]](https://arxiv.org/abs/2007.00398v1)
 

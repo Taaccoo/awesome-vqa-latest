@@ -14,7 +14,7 @@ def format_bib(path):
         
     template = "- {0},**{1}**,{2} {3} [[Paper]]({4})"
 
-    f = open(path,'r')
+    f = open(path,'r',encoding='UTF-8')
     
     text = f.readlines()
 
@@ -40,7 +40,6 @@ def format_bib(path):
             if "title" in i[0:10] and "book" not in i[0:10] and "shorttitle" not in i[0:10]:
                 start,end = get_index_of_bracket(i)
                 title = i[start+1:end]
-                print(title)
             elif "author" in i:
                 start,end = get_index_of_bracket(i)
                 author = i[start+1:end]
@@ -54,8 +53,11 @@ def format_bib(path):
             elif "url" in i and "urldate" not in i:
                 start,end = get_index_of_bracket(i)
                 url = i[start+1:end]
-                
-        result.append(template.format(author,title,journal,year,url))
+
+        final_str =  template.format(author,title,journal,year,url)   
+        final_str = final_str.replace("{","")
+        final_str = final_str.replace("}","")    
+        result.append(final_str)
     return result
 
 

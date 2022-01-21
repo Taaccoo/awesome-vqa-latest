@@ -1,7 +1,12 @@
 ## [Review Papers](../README.md)
-- Patel, Devshree and Parikh, Ratnam and Shastri, Yesha,**Recent {Advances} in {Video} {Question} {Answering}: {A} {Review} of {Datasets} and {Methods}**,arXiv:2101.05954 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05954)
+- Patel, Devshree and Parikh, Ratnam and Shastri, Yesha,**Recent Advances in Video Question Answering: A Review of Datasets and Methods**,arXiv:2101.05954 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05954)
 
-- Uppal, Shagun and Bhagat, Sarthak and Hazarika, Devamanyu and Majumdar, Navonil and Poria, Soujanya and Zimmermann, Roger and Zadeh, Amir,**Multimodal {Research} in {Vision} and {Language}: {A} {Review} of {Current} and {Emerging} {Trends}**,arxiv 2020 [[Paper]](https://arxiv.org/abs/2010.09522v2)
+- Barra, Silvio and Bisogni, Carmen and De Marsico, Maria and Ricciardi, Stefano,**Visual Question Answering: which investigated applications?**,arXiv:2103.02937 [cs] 2021 [[Paper]](http://arxiv.org/abs/2103.02937)
+
+- Zou, Yeyun and Xie, Qiyu,**A survey on VQA_Datasets and Approaches**,2020 2nd International Conference on Information Technology and Computer Application (ITCA) 2020 [[Paper]](http://arxiv.org/abs/2105.00421)
+
+
+- Uppal, Shagun and Bhagat, Sarthak and Hazarika, Devamanyu and Majumdar, Navonil and Poria, Soujanya and Zimmermann, Roger and Zadeh, Amir,**Multimodal Research in Vision and Language: A Review of Current and Emerging Trends**,arxiv 2020 [[Paper]](https://arxiv.org/abs/2010.09522v2)
  
 - Zhang, Dongxiang and Cao, Rui and Wu, Sai,**Information fusion in visual question answering**,Information Fusion 2019 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253518308893)
 

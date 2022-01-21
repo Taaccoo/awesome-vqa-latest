@@ -1,13 +1,22 @@
 ## [Knowledge-Based](../README.md)
-- Sharifzadeh, Sahand and Baharlou, Sina Moayed and Schmitt, Martin and Schütze, Hinrich and Tresp, Volker,**Improving {Visual} {Reasoning} by {Exploiting} {The} {Knowledge} in {Texts}**,arXiv:2102.04760 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.04760)
+- Chen, Zhuo and Chen, Jiaoyan and Geng, Yuxia and Pan, Jeff Z. and Yuan, Zonggang and Chen, Huajun,**Zero-shot Visual Question Answering using Knowledge Graph**,International Semantic Web Conference 2021 [[Paper]](http://arxiv.org/abs/2107.05348)   
 
-- Shevchenko, Violetta and Teney, Damien and Dick, Anthony and Hengel, Anton van den,**Reasoning over {Vision} and {Language}: {Exploring} the {Benefits} of {Supplemental} {Knowledge}**,arXiv:2101.06013 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06013)
+- Cho, Jae Won and Kim, Dong-Jin and Choi, Jinsoo and Jung, Yunjae and Kweon, In So,**Dealing with Missing Modalities in the Visual Question Answer-Difference Prediction Task through Knowledge Distillation**,Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021 [[Paper]](http://arxiv.org/abs/2104.05965)
 
-- Marino, Kenneth and Chen, Xinlei and Parikh, Devi and Gupta, Abhinav and Rohrbach, Marcus,**{KRISP}: {Integrating} {Implicit} and {Symbolic} {Knowledge} for {Open}-{Domain} {Knowledge}-{Based} {VQA}**,arXiv:2012.11014 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11014)
+- Cao, Qingxing and Li, Bailin and Liang, Xiaodan and Wang, Keze and Lin, Liang,**Knowledge-Routed Visual Question Reasoning: 
+Challenges for Deep Representation Embedding**,IEEE Transactions on Neural Networks and Learning Systems 2020 [[Paper]](http://arxiv.org/abs/2012.07192)
 
-- Cao, Qingxing and Li, Bailin and Liang, Xiaodan and Wang, Keze and Lin, Liang,**Knowledge-{Routed} {Visual} {Question} {Reasoning}: {Challenges} for {Deep} {Representation} {Embedding}**,arXiv:2012.07192 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07192)
+- Song, Dandan and Ma, Siyi and Sun, Zhanchen and Yang, Sicheng and Liao, Lejian,**KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning**,arXiv:2012.07000 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07000)
 
-- Song, Dandan and Ma, Siyi and Sun, Zhanchen and Yang, Sicheng and Liao, Lejian,**{KVL}-{BERT}: {Knowledge} {Enhanced} {Visual}-and-{Linguistic} {BERT} for {Visual} {Commonsense} {Reasoning}**,arXiv:2012.07000 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07000)
+- Sharifzadeh, Sahand and Baharlou, Sina Moayed and Schmitt, Martin and Schütze, Hinrich and Tresp, Volker,**Improving Visual Reasoning by Exploiting The Knowledge in Texts**,arXiv:2102.04760 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.04760)
+
+- Shevchenko, Violetta and Teney, Damien and Dick, Anthony and Hengel, Anton van den,**Reasoning over Vision and Language: Exploring the Benefits of Supplemental Knowledge**,arXiv:2101.06013 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06013)
+
+- Marino, Kenneth and Chen, Xinlei and Parikh, Devi and Gupta, Abhinav and Rohrbach, Marcus,**KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA**,arXiv:2012.11014 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11014)
+
+- Cao, Qingxing and Li, Bailin and Liang, Xiaodan and Wang, Keze and Lin, Liang,**Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding**,arXiv:2012.07192 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07192)
+
+- Song, Dandan and Ma, Siyi and Sun, Zhanchen and Yang, Sicheng and Liao, Lejian,**KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning**,arXiv:2012.07000 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07000)
 
 - Yu, Jing and Zhu, Zihao and Wang, Yujing and Zhang, Weifeng and Hu, Yue and Tan, Jianlong,**Cross-modal knowledge reasoning for knowledge-based visual question answering**,Pattern Recognition 2020 [[Paper]](http://arxiv.org/abs/2008.12520)
 

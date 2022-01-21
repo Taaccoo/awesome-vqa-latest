@@ -5,6 +5,8 @@
 
 - Dognin, Pierre and Melnyk, Igor and Mroueh, Youssef and Padhi, Inkit and Rigotti, Mattia and Ross, Jarret and Schiff, Yair and Young, Richard A. and Belgodere, Brian,**Image {Captioning} as an {Assistive} {Technology}: {Lessons} {Learned} from {VizWiz} 2020 {Challenge}**,arXiv:2012.11696 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11696)
 
+- Whitehead, Spencer and Wu, Hui and Fung, Yi Ren and Ji, Heng and Feris, Rogerio and Saenko, Kate,**Learning from Lexical Perturbations for Consistent Visual Question Answering**,arXiv:2011.13406 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13406) 
+
 - Chen, Long and Yan, Xin and Xiao, Jun and Zhang, Hanwang and Pu, Shiliang and Zhuang, Yueting,**Counterfactual {Samples} {Synthesizing} for {Robust} {Visual} {Question} {Answering}**,IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020 [[Paper]](https://ieeexplore.ieee.org/document/9157377/)
 
 - Banerjee, Pratyay and Gokhale, Tejas and Yang, Yezhou and Baral, Chitta,**Self-{Supervised} {VQA}: {Answering} {Visual} {Questions} using {Images} and {Captions}**,arXiv:2012.02356 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.02356)

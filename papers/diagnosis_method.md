@@ -1,35 +1,44 @@
 ## [Diagnosis Method](../README.md)
-- Davis, Ernest,**Unanswerable {Questions} about {Images} and {Texts}**,Frontiers in Artificial Intelligence 2020 [[Paper]](http://arxiv.org/abs/2102.06793)
+- Dancette, Corentin and Cadene, Remi and Teney, Damien and Cord, Matthieu,**Beyond Question-Based Biases: Assessing Multimodal Shortcut Learning in Visual Question Answering**,arXiv:2104.03149 [cs] 2021 [[Paper]](http://arxiv.org/abs/2104.03149)  
 
-- Wang, Zixu and Miao, Yishu and Specia, Lucia,**Latent {Variable} {Models} for {Visual} {Question} {Answering}**,arXiv:2101.06399 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06399)
 
-- Zhu, Xi and Mao, Zhendong and Liu, Chunxiao and Zhang, Peng and Wang, Bin and Zhang, Yongdong,**Overcoming {Language} {Priors} with {Self}-supervised {Learning} for {Visual} {Question} {Answering}**,IJCAI 2020 [[Paper]](http://arxiv.org/abs/2012.11528)
+- Wang, Zixu and Miao, Yishu and Specia, Lucia,**Latent Variable Models for Visual Question Answering**,arXiv:2101.06399 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.06399)
 
-- Winterbottom, Thomas and Xiao, Sarah and McLean, Alistair and Moubayed, Noura Al,**On {Modality} {Bias} in the {TVQA} {Dataset}**,BMVC 2020 [[Paper]](http://arxiv.org/abs/2012.10210)
+- Yang, Chao and Feng, Su and Li, Dongsheng and Shen, Huawei and Wang, Guoqing and Jiang, Bin,**Learning content and context with language bias for Visual Question Answering**,2021 IEEE International Conference on Multimedia and Expo (ICME) 2020 [[Paper]](http://arxiv.org/abs/2012.11134)
 
-- Whitehead, Spencer and Wu, Hui and Fung, Yi Ren and Ji, Heng and Feris, Rogerio and Saenko, Kate,**Learning from {Lexical} {Perturbations} for {Consistent} {Visual} {Question} {Answering}**,arXiv:2011.13406 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13406)
+- Davis, Ernest,**Unanswerable Questions about Images and Texts**,Frontiers in Artificial Intelligence 2020 [[Paper]](http://arxiv.org/abs/2102.06793)
 
-- Le-Ngo, Anh-Cat and Tran, Truyen and Rana, Santu and Gupta, Sunil and Venkatesh, Svetha,**Logically {Consistent} {Loss} for {Visual} {Question} {Answering}**,arXiv:2011.10094 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10094)
 
-- Guo, Yangyang and Nie, Liqiang and Cheng, Zhiyong and Tian, Qi,**Loss-rescaling {VQA}: {Revisiting} {Language} {Prior} {Problem} from a {Class}-imbalance {View}**,arXiv:2010.16010 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.16010)
+- Zhu, Xi and Mao, Zhendong and Liu, Chunxiao and Zhang, Peng and Wang, Bin and Zhang, Yongdong,**Overcoming Language Priors with Self-supervised Learning for Visual Question Answering**,IJCAI 2020 [[Paper]](http://arxiv.org/abs/2012.11528)
 
-- Dua, Radhika and Kancheti, Sai Srinivas and Balasubramanian, Vineeth N.,**Beyond {VQA}: {Generating} {Multi}-word {Answer} and {Rationale} to {Visual} {Questions}**,arXiv:2010.11997 [cs] 2020 [[Paper]](https://arxiv.org/abs/2010.12852v1)
 
-- Dharur, Sameer and Tendulkar, Purva and Batra, Dhruv and Parikh, Devi and Selvaraju, Ramprasaath R.,**{SOrT}-ing {VQA} {Models} : {Contrastive} {Gradient} {Learning} for {Improved} {Consistency}**,arXiv:2010.10038 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.10038)
+- Zhu, Xi and Mao, Zhendong and Liu, Chunxiao and Zhang, Peng and Wang, Bin and Zhang, Yongdong,**Overcoming Language Priors with Self-supervised Learning for Visual Question Answering**,arXiv:2012.11528 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11528)
 
-- Huang, Hantao and Han, Tao and Han, Wei and Yap, Deep and Chiang, Cheng-Ming,**Answer-checking in {Context}: {A} {Multi}-modal {FullyAttention} {Network} for {Visual} {Question} {Answering}**,arXiv:2010.08708 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.08708)
+- Winterbottom, Thomas and Xiao, Sarah and McLean, Alistair and Moubayed, Noura Al,**On Modality Bias in the TVQA Dataset**,BMVC 2020 [[Paper]](http://arxiv.org/abs/2012.10210)
 
-- Kant, Yash and Moudgil, Abhinav and Batra, Dhruv and Parikh, Devi and Agrawal, Harsh,**Contrast and {Classify}: {Alternate} {Training} for {Robust} {VQA}**,arXiv:2010.06087 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.06087)
+- Whitehead, Spencer and Wu, Hui and Fung, Yi Ren and Ji, Heng and Feris, Rogerio and Saenko, Kate,**Learning from Lexical Perturbations for Consistent Visual Question Answering**,arXiv:2011.13406 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13406)
 
-- Han, Wei and Huang, Hantao and Han, Tao,**Finding the {Evidence}: {Localization}-aware {Answer} {Prediction} for {Text} {Visual} {Question} {Answering}**,arXiv:2010.02582 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.02582)
+- Le-Ngo, Anh-Cat and Tran, Truyen and Rana, Santu and Gupta, Sunil and Venkatesh, Svetha,**Logically Consistent Loss for Visual Question Answering**,arXiv:2011.10094 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10094)
 
-- Gokhale, Tejas and Banerjee, Pratyay and Baral, Chitta and Yang, Yezhou,**{MUTANT}: {A} {Training} {Paradigm} for {Out}-of-{Distribution} {Generalization} in {Visual} {Question} {Answering}**,arXiv:2009.08566 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.08566)
+- Guo, Yangyang and Nie, Liqiang and Cheng, Zhiyong and Tian, Qi,**Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View**,arXiv:2010.16010 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.16010)
+
+- Dua, Radhika and Kancheti, Sai Srinivas and Balasubramanian, Vineeth N.,**Beyond VQA: Generating Multi-word Answer and Rationale to Visual Questions**,arXiv:2010.11997 [cs] 2020 [[Paper]](https://arxiv.org/abs/2010.12852v1)
+
+- Dharur, Sameer and Tendulkar, Purva and Batra, Dhruv and Parikh, Devi and Selvaraju, Ramprasaath R.,**SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency**,arXiv:2010.10038 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.10038)
+
+- Huang, Hantao and Han, Tao and Han, Wei and Yap, Deep and Chiang, Cheng-Ming,**Answer-checking in Context: A Multi-modal FullyAttention Network for Visual Question Answering**,arXiv:2010.08708 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.08708)
+
+- Kant, Yash and Moudgil, Abhinav and Batra, Dhruv and Parikh, Devi and Agrawal, Harsh,**Contrast and Classify: Alternate Training for Robust VQA**,arXiv:2010.06087 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.06087)
+
+- Han, Wei and Huang, Hantao and Han, Tao,**Finding the Evidence: Localization-aware Answer Prediction for Text Visual Question Answering**,arXiv:2010.02582 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.02582)
+
+- Gokhale, Tejas and Banerjee, Pratyay and Baral, Chitta and Yang, Yezhou,**MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering**,arXiv:2009.08566 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.08566)
 
 - Do, Tuong and Nguyen, Binh X. and Tran, Huy and Tjiputra, Erman and Tran, Quang D. and Do, Thanh-Toan,**Multiple interaction learning with question-type prior knowledge for constraining answer search space in visual question answering**,arXiv:2009.11118 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.11118)
 
-- Long, Yu and Tang, Pengjie and Wei, Zhihua and Gu, Jinjing and Wang, Hanli,**{RepeatPadding}: {Balancing} words and sentence length for language comprehension in visual question answering**,Information Sciences 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S002002552030342X)
+- Long, Yu and Tang, Pengjie and Wei, Zhihua and Gu, Jinjing and Wang, Hanli,**RepeatPadding: Balancing words and sentence length for language comprehension in visual question answering**,Information Sciences 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S002002552030342X)
 
-- Liu, Feng and Xiang, Tao and Hospedales, Timothy M. and Yang, Wankou and Sun, Changyin,**Inverse {Visual} {Question} {Answering}**,IEEE Transactions on Pattern Analysis and Machine Intelligence 2020 [[Paper]](https://ieeexplore.ieee.org/document/8528867/)
+- Liu, Feng and Xiang, Tao and Hospedales, Timothy M. and Yang, Wankou and Sun, Changyin,**Inverse Visual Question Answering**,IEEE Transactions on Pattern Analysis and Machine Intelligence 2020 [[Paper]](https://ieeexplore.ieee.org/document/8528867/)
 
 - Halbe, Shaunak, **Exploring Weaknesses of VQA Models through Attribution Driven Insights**, arXiv:2006.06637   2020   [[Paper]](http://arxiv.org/abs/2006.06637)
 
@@ -54,7 +63,7 @@
 
 - van Steenkiste, Sjoerd; Locatello, Francesco; Schmidhuber, Jürgen; Bachem, Olivier, **Are Disentangled Representations Helpful for Abstract Visual Reasoning?**, Advances in Neural Information Processing Systems 2019   [[Paper]](http://arxiv.org/abs/1905.12506)
 
-- Cao, Qingxing and Liang, Xiaodan and Li, Bailin and Lin, Liang,**Interpretable {Visual} {Question} {Answering} by {Reasoning} on {Dependency} {Trees}**,IEEE Transactions on Pattern Analysis and Machine Intelligence 2019 [[Paper]](https://ieeexplore.ieee.org/document/8847465/)
+- Cao, Qingxing and Liang, Xiaodan and Li, Bailin and Lin, Liang,**Interpretable Visual Question Answering by Reasoning on Dependency Trees**,IEEE Transactions on Pattern Analysis and Machine Intelligence 2019 [[Paper]](https://ieeexplore.ieee.org/document/8847465/)
 
 - Selvaraju, Ramprasaath R.; Lee, Stefan; Shen, Yilin; Jin, Hongxia; Ghosh, Shalini; Heck, Larry; Batra, Dhruv; Parikh, Devi, **Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded**, Proceedings of the IEEE International Conference on Computer Vision 2019   [[Paper]](http://arxiv.org/abs/1902.03751)
 

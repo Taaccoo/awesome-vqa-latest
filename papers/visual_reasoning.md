@@ -1,13 +1,15 @@
 ## [Visual Reasoning](../README.md)
-- Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic {Language} {Binding} in {Relational} {Visual} {Reasoning}**,arXiv:2004.14603 [cs] 2021 [[Paper]](http://arxiv.org/abs/2004.14603)
+- Banerjee, Pratyay and Gokhale, Tejas and Yang, Yezhou and Baral, Chitta,**Weakly Supervised Relative Spatial Reasoning for Visual Question Answering**,Proceedings of the IEEE/CVF International Conference on Computer Vision 2021 [[Paper]](http://arxiv.org/abs/2109.01934)
 
-- Yang, Jianwei and Mao, Jiayuan and Wu, Jiajun and Parikh, Devi and Cox, David D. and Tenenbaum, Joshua B. and Gan, Chuang,**Object-{Centric} {Diagnosis} of {Visual} {Reasoning}**,arXiv:2012.11587 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11587)
+- Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic Language Binding in Relational Visual Reasoning**,arXiv:2004.14603 [cs] 2021 [[Paper]](http://arxiv.org/abs/2004.14603)
 
-- Hong, Xin and Lan, Yanyan and Pang, Liang and Guo, Jiafeng and Cheng, Xueqi,**Transformation {Driven} {Visual} {Reasoning}**,arXiv:2011.13160 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13160)
+- Yang, Jianwei and Mao, Jiayuan and Wu, Jiajun and Parikh, Devi and Cox, David D. and Tenenbaum, Joshua B. and Gan, Chuang,**Object-Centric Diagnosis of Visual Reasoning**,arXiv:2012.11587 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11587)
 
-- Wang, Zhonghao and Yu, Mo and Wang, Kai and Xiong, Jinjun and Hwu, Wen-mei and Hasegawa-Johnson, Mark and Shi, Humphrey,**Interpretable {Visual} {Reasoning} via {Induced} {Symbolic} {Space}**,arXiv:2011.11603 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.11603)
+- Hong, Xin and Lan, Yanyan and Pang, Liang and Guo, Jiafeng and Cheng, Xueqi,**Transformation Driven Visual Reasoning**,arXiv:2011.13160 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13160)
 
-- Marasović, Ana and Bhagavatula, Chandra and Park, Jae Sung and Bras, Ronan Le and Smith, Noah A. and Choi, Yejin,**Natural {Language} {Rationales} with {Full}-{Stack} {Visual} {Reasoning}: {From} {Pixels} to {Semantic} {Frames} to {Commonsense} {Graphs}**,arXiv:2010.07526 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.07526)
+- Wang, Zhonghao and Yu, Mo and Wang, Kai and Xiong, Jinjun and Hwu, Wen-mei and Hasegawa-Johnson, Mark and Shi, Humphrey,**Interpretable Visual Reasoning via Induced Symbolic Space**,arXiv:2011.11603 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.11603)
+
+- Marasović, Ana and Bhagavatula, Chandra and Park, Jae Sung and Bras, Ronan Le and Smith, Noah A. and Choi, Yejin,**Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs**,arXiv:2010.07526 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.07526)
 
 - Le, Thao Minh and Le, Vuong and Venkatesh, Svetha and Tran, Truyen,**Dynamic Language Binding in Relational Visual Reasoning**,arXiv preprint arXiv:2004.14603 2020 [[Paper]](http://arxiv.org/abs/2004.14603)
 
@@ -35,6 +37,6 @@
 
 - Santoro, Adam; Raposo, David; Barrett, David G. T.; Malinowski, Mateusz; Pascanu, Razvan; Battaglia, Peter; Lillicrap, Timothy, **A simple neural network module for relational reasoning**, Advances in neural information processing systems 2017   [[Paper]](http://arxiv.org/abs/1706.01427)
 
-- Jang, Yunseok and Song, Yale and Yu, Youngjae and Kim, Youngjin and Kim, Gunhee,**{TGIF}-{QA}: {Toward} {Spatio}-{Temporal} {Reasoning} in {Visual} {Question} {Answering}**,Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2017 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.html)
+- Jang, Yunseok and Song, Yale and Yu, Youngjae and Kim, Youngjin and Kim, Gunhee,**TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering**,Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2017 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.html)
 
 - Johnson, Justin; Hariharan, Bharath; van der Maaten, Laurens; Hoffman, Judy; Fei-Fei, Li; Zitnick, C. Lawrence; Girshick, Ross, **Inferring and Executing Programs for Visual Reasoning**, Proceedings of the IEEE International Conference on Computer Vision 2017   [[Paper]](http://arxiv.org/abs/1705.03633)

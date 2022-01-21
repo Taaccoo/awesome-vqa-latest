@@ -1,3 +1,52 @@
+## 2022-1-21
+- Azuma, Daichi and Miyanishi, Taiki and Kurita, Shuhei and Kawanabe, Motoki,**ScanQA: 3D Question Answering for Spatial Scene Understanding**,arXiv:2112.10482 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.10482)
+ 
+- Biten, Ali Furkan and Litman, Ron and Xie, Yusheng and Appalaraju, Srikar and Manmatha, R.,**LaTr: Layout-Aware Transformer 
+for Scene-Text VQA**,arXiv:2112.12494 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.12494)
+
+- Banerjee, Pratyay and Gokhale, Tejas and Yang, Yezhou and Baral, Chitta,**WeaQA: Weak Supervision via Captions for Visual Question Answering**,Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 2021 [[Paper]](http://arxiv.org/abs/2012.02356)
+
+- Song, Dandan and Ma, Siyi and Sun, Zhanchen and Yang, Sicheng and Liao, Lejian,**KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning**,arXiv:2012.07000 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.07000)
+
+- Cao, Qingxing and Li, Bailin and Liang, Xiaodan and Wang, Keze and Lin, Liang,**Knowledge-Routed Visual Question Reasoning: 
+Challenges for Deep Representation Embedding**,IEEE Transactions on Neural Networks and Learning Systems 2020 [[Paper]](http://arxiv.org/abs/2012.07192)
+
+- Yang, Chao and Feng, Su and Li, Dongsheng and Shen, Huawei and Wang, Guoqing and Jiang, Bin,**Learning content and context with language bias for Visual Question Answering**,2021 IEEE International Conference on Multimedia and Expo (ICME) 2020 [[Paper]](http://arxiv.org/abs/2012.11134)
+
+- Zhu, Xi and Mao, Zhendong and Liu, Chunxiao and Zhang, Peng and Wang, Bin and Zhang, Yongdong,**Overcoming Language Priors with Self-supervised Learning for Visual Question Answering**,arXiv:2012.11528 [cs] 2020 [[Paper]](http://arxiv.org/abs/2012.11528)
+
+- Whitehead, Spencer and Wu, Hui and Fung, Yi Ren and Ji, Heng and Feris, Rogerio and Saenko, Kate,**Learning from Lexical Perturbations for Consistent Visual Question Answering**,arXiv:2011.13406 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.13406)   
+
+- Damodaran, Vinay and Chakravarthy, Sharanya and Kumar, Akshay and Umapathy, Anjana and Mitamura, Teruko and Nakashima, Yuta 
+and Garcia, Noa and Chu, Chenhui,**Understanding the Role of Scene Graphs in Visual Question Answering**,arXiv:2101.05479 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05479)
+
+- Barra, Silvio and Bisogni, Carmen and De Marsico, Maria and Ricciardi, Stefano,**Visual Question Answering: which investigated applications?**,arXiv:2103.02937 [cs] 2021 [[Paper]](http://arxiv.org/abs/2103.02937)
+
+- Berlot-Attwell, Ian,**Neuro-Symbolic VQA: A review from the perspective of AGI desiderata**,arXiv:2103.02937 [cs] 2021 [[Paper]](https://arxiv.org/abs/2104.06365v1)
+
+- Dancette, Corentin and Cadene, Remi and Teney, Damien and Cord, Matthieu,**Beyond Question-Based Biases: Assessing Multimodal Shortcut Learning in Visual Question Answering**,arXiv:2104.03149 [cs] 2021 [[Paper]](http://arxiv.org/abs/2104.03149)      
+
+- Cho, Jae Won and Kim, Dong-Jin and Choi, Jinsoo and Jung, Yunjae and Kweon, In So,**Dealing with Missing Modalities in the Visual Question Answer-Difference Prediction Task through Knowledge Distillation**,Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021 [[Paper]](http://arxiv.org/abs/2104.05965)
+
+- Zou, Yeyun and Xie, Qiyu,**A survey on VQA_Datasets and Approaches**,2020 2nd International Conference on Information Technology and Computer Application (ITCA) 2020 [[Paper]](http://arxiv.org/abs/2105.00421)
+
+- Comment: arXiv admin note: text overlap with arXiv:1706.07230 by other authors,**Grounding Complex Navigational Instructions Using Scene Graphs**,arXiv:2106.01607 [cs] 2021 [[Paper]](http://arxiv.org/abs/2106.01607)
+
+- D'Amario, Vanessa and Sasaki, Tomotake and Boix, Xavier,**How Modular Should Neural Module Networks Be for Systematic Generalization?**,arXiv:2106.08170 [cs] 2021 [[Paper]](http://arxiv.org/abs/2106.08170)
+
+- Chen, Zhuo and Chen, Jiaoyan and Geng, Yuxia and Pan, Jeff Z. and Yuan, Zonggang and Chen, Huajun,**Zero-shot Visual Question Answering using Knowledge Graph**,International Semantic Web Conference 2021 [[Paper]](http://arxiv.org/abs/2107.05348)     
+
+- Banerjee, Pratyay and Gokhale, Tejas and Yang, Yezhou and Baral, Chitta,**Weakly Supervised Relative Spatial Reasoning for Visual Question Answering**,Proceedings of the IEEE/CVF International Conference on Computer Vision 2021 [[Paper]](http://arxiv.org/abs/2109.01934)
+
+- Chappuis, Christel and Lobry, Sylvain and Kellenberger, Benjamin and Saux, Bertrand Le and Tuia, Devis,**How to find a good 
+image-text embedding for remote sensing visual question answering?**,arXiv:2109.11848 [cs] 2021 [[Paper]](http://arxiv.org/abs/2109.11848)
+
+- Chen, Long and Zheng, Yuhang and Niu, Yulei and Zhang, Hanwang and Xiao, Jun,**Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering**,arXiv:2110.01013 [cs] 2021 [[Paper]](http://arxiv.org/abs/2110.01013)
+
+- Cao, JianJian and Qin, Xiameng and Zhao, Sanyuan and Shen, Jianbing,**Bilateral Cross-Modality Graph Matching Attention for 
+Feature Fusion in Visual Question Answering**,arXiv:2112.07270 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.07270)
+
+
 ## 2021-2-24
 - Sharifzadeh, Sahand and Baharlou, Sina Moayed and Schmitt, Martin and Schütze, Hinrich and Tresp, Volker,**Improving {Visual} {Reasoning} by {Exploiting} {The} {Knowledge} in {Texts}**,arXiv:2102.04760 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.04760)
  

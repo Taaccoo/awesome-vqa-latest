@@ -1,5 +1,8 @@
 ## [Joint Embedding](../README.md)
-- Zhang, Weifeng and Yu, Jing and Zhao, Wenhong and Ran, Chuan,**{DMRFNet}: {Deep} {Multimodal} {Reasoning} and {Fusion} for {Visual} {Question} {Answering} and explanation generation**,Information Fusion 2021 [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253521000208)
+- Chappuis, Christel and Lobry, Sylvain and Kellenberger, Benjamin and Saux, Bertrand Le and Tuia, Devis,**How to find a good 
+image-text embedding for remote sensing visual question answering?**,arXiv:2109.11848 [cs] 2021 [[Paper]](http://arxiv.org/abs/2109.11848)
+
+- Zhang, Weifeng and Yu, Jing and Zhao, Wenhong and Ran, Chuan,**DMRFNet: Deep Multimodal Reasoning and Fusion for Visual Question Answering and explanation generation**,Information Fusion 2021 [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253521000208)
 
 - Zhang, Weifeng and Yu, Jing and Hu, Hua and Hu, Haiyang and Qin, Zengchang,**Multimodal feature fusion by relational reasoning and attention for visual question answering**,Information Fusion 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253518308248)
 

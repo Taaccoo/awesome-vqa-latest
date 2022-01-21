@@ -1,8 +1,19 @@
 
 ## [Graph and Neural-Symbolic](../README.md)
-- Kim, Jung-Jun and Lee, Dong-Gyu and Wu, Jialin and Jung, Hong-Gyu and Lee, Seong-Whan,**Visual {Question} {Answering} based on {Local}-{Scene}-{Aware} {Referring} {Expression} {Generation}**,arXiv:2101.08978 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.08978)
+- Cao, JianJian and Qin, Xiameng and Zhao, Sanyuan and Shen, Jianbing,**Bilateral Cross-Modality Graph Matching Attention for 
+Feature Fusion in Visual Question Answering**,arXiv:2112.07270 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.07270)
 
-- Liang, Weixin and Niu, Feiyang and Reganti, Aishwarya and Thattai, Govind and Tur, Gokhan,**{LRTA}: {A} {Transparent} {Neural}-{Symbolic} {Reasoning} {Framework} with {Modular} {Supervision} for {Visual} {Question} {Answering}**,arXiv:2011.10731 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10731)
+- Comment: arXiv admin note: text overlap with arXiv:1706.07230 by other authors,**Grounding Complex Navigational Instructions Using Scene Graphs**,arXiv:2106.01607 [cs] 2021 [[Paper]](http://arxiv.org/abs/2106.01607)
+
+- Berlot-Attwell, Ian,**Neuro-Symbolic VQA: A review from the perspective of AGI desiderata**,arXiv:2103.02937 [cs] 2021 [[Paper]](https://arxiv.org/abs/2104.06365v1)
+
+
+- Damodaran, Vinay and Chakravarthy, Sharanya and Kumar, Akshay and Umapathy, Anjana and Mitamura, Teruko and Nakashima, Yuta 
+and Garcia, Noa and Chu, Chenhui,**Understanding the Role of Scene Graphs in Visual Question Answering**,arXiv:2101.05479 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05479)
+
+- Kim, Jung-Jun and Lee, Dong-Gyu and Wu, Jialin and Jung, Hong-Gyu and Lee, Seong-Whan,**Visual Question Answering based on Local-Scene-Aware Referring Expression Generation**,arXiv:2101.08978 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.08978)
+
+- Liang, Weixin and Niu, Feiyang and Reganti, Aishwarya and Thattai, Govind and Tur, Gokhan,**LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering**,arXiv:2011.10731 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.10731)
 
 - Zhu, Xi and Mao, Zhendong and Chen, Zhineng and Li, Yangyang and Wang, Zhaohui and Wang, Bin,**Object-difference drived graph convolutional networks for visual question answering**,Multimedia Tools and Applications 2020 [[Paper]](http://link.springer.com/10.1007/s11042-020-08790-0)
 

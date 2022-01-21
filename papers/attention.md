@@ -1,13 +1,13 @@
 ## [Attention-Based](../README.md) 
-- Rahman, Tanzila and Chou, Shih-Han and Sigal, Leonid and Carenini, Giuseppe,**An {Improved} {Attention} for {Visual} {Question} {Answering}**,arXiv:2011.02164 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.02164)
+- Rahman, Tanzila and Chou, Shih-Han and Sigal, Leonid and Carenini, Giuseppe,**An Improved Attention for Visual Question Answering**,arXiv:2011.02164 [cs] 2020 [[Paper]](http://arxiv.org/abs/2011.02164)
 
-- Farazi, Moshiur and Khan, Salman and Barnes, Nick,**Attention {Guided} {Semantic} {Relationship} {Parsing} for {Visual} {Question} {Answering}**,arXiv:2010.01725 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.01725)
+- Farazi, Moshiur and Khan, Salman and Barnes, Nick,**Attention Guided Semantic Relationship Parsing for Visual Question Answering**,arXiv:2010.01725 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.01725)
 
-- Liu, Yun and Zhang, Xiaoming and Huang, Feiran and Cheng, Lei and Li, Zhoujun,**Adversarial {Learning} {With} {Multi}-{Modal} {Attention} for {Visual} {Question} {Answering}**,IEEE Transactions on Neural Networks and Learning Systems 2020 [[Paper]](https://ieeexplore.ieee.org/document/9174895/)
+- Liu, Yun and Zhang, Xiaoming and Huang, Feiran and Cheng, Lei and Li, Zhoujun,**Adversarial Learning With Multi-Modal Attention for Visual Question Answering**,IEEE Transactions on Neural Networks and Learning Systems 2020 [[Paper]](https://ieeexplore.ieee.org/document/9174895/)
 
-- Lee, Doyup and Cheon, Yeongjae and Han, Wook-Shin,**Regularizing {Attention} {Networks} for {Anomaly} {Detection} in {Visual} {Question} {Answering}**,arXiv:2009.10054 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.10054)
+- Lee, Doyup and Cheon, Yeongjae and Han, Wook-Shin,**Regularizing Attention Networks for Anomaly Detection in Visual Question Answering**,arXiv:2009.10054 [cs] 2020 [[Paper]](http://arxiv.org/abs/2009.10054)
 
-- Gao, Lianli and Cao, Liangfu and Xu, Xing and Shao, Jie and Song, Jingkuan,**Question-{Led} object attention for visual question answering**,Neurocomputing 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0925231219304163)
+- Gao, Lianli and Cao, Liangfu and Xu, Xing and Shao, Jie and Song, Jingkuan,**Question-Led object attention for visual question answering**,Neurocomputing 2020 [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0925231219304163)
 
 - KV, Gouthaman and Nambiar, Athira and Srinivas, Kancheti Sai and Mittal, Anurag,**Linguistically-aware Attention for Reducing the Semantic-Gap in Vision-Language Tasks**,arXiv preprint arXiv:2008.08012 2020 [[Paper]](http://arxiv.org/abs/2008.08012)
 

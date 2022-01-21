@@ -1,7 +1,9 @@
 ## [Modular Network](../README.md) 
-- Guo, Dalu and Tao, Dacheng,**Learning {Compositional} {Representation} for {Few}-shot {Visual} {Question} {Answering}**,arXiv:2102.10575 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.10575)
+- D'Amario, Vanessa and Sasaki, Tomotake and Boix, Xavier,**How Modular Should Neural Module Networks Be for Systematic Generalization?**,arXiv:2106.08170 [cs] 2021 [[Paper]](http://arxiv.org/abs/2106.08170)
 
-- Tang, Ruixue and Ma, Chao,**Interpretable {Neural} {Computation} for {Real}-{World} {Compositional} {Visual} {Question} {Answering}**,arXiv:2010.04913 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.04913)
+- Guo, Dalu and Tao, Dacheng,**Learning Compositional Representation for Few-shot Visual Question Answering**,arXiv:2102.10575 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.10575)
+
+- Tang, Ruixue and Ma, Chao,**Interpretable Neural Computation for Real-World Compositional Visual Question Answering**,arXiv:2010.04913 [cs] 2020 [[Paper]](http://arxiv.org/abs/2010.04913)
 
 - Sur, Chiranjib, **Self-Segregating and Coordinated-Segregating Transformer for Focused Deep Multi-Modular Network for Visual Question Answering**, arXiv:2006.14264 2020   [[Paper]](https://arxiv.org/abs/2006.14264v1)
 
