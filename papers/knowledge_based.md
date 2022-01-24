@@ -1,5 +1,14 @@
 ## [Knowledge-Based](../README.md)
-- Chen, Zhuo and Chen, Jiaoyan and Geng, Yuxia and Pan, Jeff Z. and Yuan, Zonggang and Chen, Huajun,**Zero-shot Visual Question Answering using Knowledge Graph**,International Semantic Web Conference 2021 [[Paper]](http://arxiv.org/abs/2107.05348)   
+- Gui, Liangke and Wang, Borui and Huang, Qiuyuan and Hauptmann, Alex and Bisk, Yonatan and Gao, Jianfeng,**KAT: A Knowledge Augmented Transformer for Vision-and-Language**,arXiv:2112.08614 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.08614)
+
+- Garcia-Olano, Diego and Onoe, Yasumasa and Ghosh, Joydeep,**Improving and Diagnosing Knowledge-Based Visual Question Answering via 
+Entity Enhanced Knowledge Injection**,arXiv:2112.06888 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.06888)
+
+
+- Dey, Arka Ujjal and Valveny, Ernest and Harit, Gaurav,**External Knowledge enabled Text Visual Question Answering**,arXiv:2108.09717 [cs] 2021 [[Paper]](http://arxiv.org/abs/2108.09717)
+
+- Chen, Zhuo and Chen, Jiaoyan and Geng, Yuxia and Pan, Jeff Z. and Yuan, Zonggang and Chen, Huajun,**Zero-shot Visual Question Answering using Knowledge Graph**,International Semantic Web Conference 2021 [[Paper]](http://arxiv.org/abs/2107.05348) 
+
 
 - Cho, Jae Won and Kim, Dong-Jin and Choi, Jinsoo and Jung, Yunjae and Kweon, In So,**Dealing with Missing Modalities in the Visual Question Answer-Difference Prediction Task through Knowledge Distillation**,Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021 [[Paper]](http://arxiv.org/abs/2104.05965)
 

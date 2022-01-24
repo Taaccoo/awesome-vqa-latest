@@ -1,4 +1,8 @@
 ## [Representation](../README.md)
+- Eslami, Sedigheh and de Melo, Gerard and Meinel, Christoph,**Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?**,arXiv:2112.13906 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.13906)
+
+- Gao, Chenyu and Zhu, Qi and Wang, Peng and Wu, Qi,**Chop Chop BERT: Visual Question Answering by Chopping VisualBERT's Heads**,arXiv:2104.14741 [cs] 2021 [[Paper]](http://arxiv.org/abs/2104.14741)
+
 - Jia, Chao and Yang, Yinfei and Xia, Ye and Chen, Yi-Ting and Parekh, Zarana and Pham, Hieu and Le, Quoc V. and Sung, Yunhsuan and Li, Zhen and Duerig, Tom,**Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision**,arXiv:2102.05918 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.05918)
 
 - Zhang, Pengchuan and Li, Xiujun and Hu, Xiaowei and Yang, Jianwei and Zhang, Lei and Wang, Lijuan and Choi, Yejin and Gao, Jianfeng,**VinVL: Making Visual Representations Matter in Vision-Language Models**,arXiv:2101.00529 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.00529)

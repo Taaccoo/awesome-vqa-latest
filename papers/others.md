@@ -1,4 +1,12 @@
 ## [Others](../README.md)
+- Gamage, Bhanuka Manesha Samarasekara Vitharana and Hong, Lim Chern,**Improved RAMEN: Towards Domain Generalization for Visual Question Answering**,arXiv:2109.02370 [cs] 2021 [[Paper]](http://arxiv.org/abs/2109.02370)
+
+- Do, Tuong and Nguyen, Binh X. and Tjiputra, Erman and Tran, Minh and Tran, Quang D. and Nguyen, Anh,**Multiple Meta-model Quantifying for Medical Visual Question Answering**,arXiv:2105.08913 [cs] 2021 [[Paper]](http://arxiv.org/abs/2105.08913)
+
+- Gong, Haifan and Chen, Guanqi and Liu, Sishuo and Yu, Yizhou and Li, Guanbin,**Cross-Modal Self-Attention with Multi-Task Pre-Training for Medical Visual Question Answering**,arXiv:2105.00136 [cs] 2021 [[Paper]](http://arxiv.org/abs/2105.00136)
+
+- Gan, Zhe and Chen, Yen-Chun and Li, Linjie and Chen, Tianlong and Cheng, Yu and Wang, Shuohang and Liu, Jingjing and Wang, Lijuan and Liu, Zicheng,**Playing Lottery Tickets with Vision and Language**,arXiv:2104.11832 [cs] 2021 [[Paper]](http://arxiv.org/abs/2104.11832)
+
 - Liu, Yibing and Guo, Yangyang and Yin, Jianhua and Song, Xuemeng and Liu, Weifeng and Nie, Liqiang,**Answer {Questions} with {Right} {Image} {Regions}: {A} {Visual} {Attention} {Regularization} {Approach}**,arXiv:2102.01916 [cs] 2021 [[Paper]](http://arxiv.org/abs/2102.01916)
 
 - Damodaran, Vinay and Chakravarthy, Sharanya and Kumar, Akshay and Umapathy, Anjana and Mitamura, Teruko and Nakashima, Yuta and Garcia, Noa and Chu, Chenhui,**Understanding the {Role} of {Scene} {Graphs} in {Visual} {Question} {Answering}**,arXiv:2101.05479 [cs] 2021 [[Paper]](http://arxiv.org/abs/2101.05479)

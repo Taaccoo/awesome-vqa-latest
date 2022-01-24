@@ -1,3 +1,26 @@
+## 2022-1-24
+- Gan, Zhe and Chen, Yen-Chun and Li, Linjie and Chen, Tianlong and Cheng, Yu and Wang, Shuohang and Liu, Jingjing and Wang, Lijuan and Liu, Zicheng,**Playing Lottery Tickets with Vision and Language**,arXiv:2104.11832 [cs] 2021 [[Paper]](http://arxiv.org/abs/2104.11832)
+ 
+- Gao, Chenyu and Zhu, Qi and Wang, Peng and Wu, Qi,**Chop Chop BERT: Visual Question Answering by Chopping VisualBERT's Heads**,arXiv:2104.14741 [cs] 2021 [[Paper]](http://arxiv.org/abs/2104.14741)
+
+- Gong, Haifan and Chen, Guanqi and Liu, Sishuo and Yu, Yizhou and Li, Guanbin,**Cross-Modal Self-Attention with Multi-Task Pre-Training for Medical Visual Question Answering**,arXiv:2105.00136 [cs] 2021 [[Paper]](http://arxiv.org/abs/2105.00136)
+
+- Do, Tuong and Nguyen, Binh X. and Tjiputra, Erman and Tran, Minh and Tran, Quang D. and Nguyen, Anh,**Multiple Meta-model Quantifying for Medical Visual Question Answering**,arXiv:2105.08913 [cs] 2021 [[Paper]](http://arxiv.org/abs/2105.08913)
+
+- Dey, Arka Ujjal and Valveny, Ernest and Harit, Gaurav,**External Knowledge enabled Text Visual Question Answering**,arXiv:2108.09717 [cs] 2021 [[Paper]](http://arxiv.org/abs/2108.09717)
+
+- Gamage, Bhanuka Manesha Samarasekara Vitharana and Hong, Lim Chern,**Improved RAMEN: Towards Domain Generalization for Visual Question Answering**,arXiv:2109.02370 [cs] 2021 [[Paper]](http://arxiv.org/abs/2109.02370)
+
+- Gat, Itai and Schwartz, Idan and Schwing, Alexander,**Perceptual Score: What Data Modalities Does Your Model Perceive?**,Advances in Neural Information Processing Systems 2021 [[Paper]](http://arxiv.org/abs/2110.14375)
+
+- Garcia-Olano, Diego and Onoe, Yasumasa and Ghosh, Joydeep,**Improving and Diagnosing Knowledge-Based Visual Question Answering via 
+Entity Enhanced Knowledge Injection**,arXiv:2112.06888 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.06888)
+
+- Gui, Liangke and Wang, Borui and Huang, Qiuyuan and Hauptmann, Alex and Bisk, Yonatan and Gao, Jianfeng,**KAT: A Knowledge Augmented Transformer for Vision-and-Language**,arXiv:2112.08614 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.08614)
+
+- Eslami, Sedigheh and de Melo, Gerard and Meinel, Christoph,**Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?**,arXiv:2112.13906 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.13906)
+
+
 ## 2022-1-21
 - Azuma, Daichi and Miyanishi, Taiki and Kurita, Shuhei and Kawanabe, Motoki,**ScanQA: 3D Question Answering for Spatial Scene Understanding**,arXiv:2112.10482 [cs] 2021 [[Paper]](http://arxiv.org/abs/2112.10482)
  

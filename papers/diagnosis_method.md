@@ -1,4 +1,7 @@
 ## [Diagnosis Method](../README.md)
+- Gat, Itai and Schwartz, Idan and Schwing, Alexander,**Perceptual Score: What Data Modalities Does Your Model Perceive?**,Advances in Neural Information Processing Systems 2021 [[Paper]](http://arxiv.org/abs/2110.14375)
+
+
 - Dancette, Corentin and Cadene, Remi and Teney, Damien and Cord, Matthieu,**Beyond Question-Based Biases: Assessing Multimodal Shortcut Learning in Visual Question Answering**,arXiv:2104.03149 [cs] 2021 [[Paper]](http://arxiv.org/abs/2104.03149)  
 
 
