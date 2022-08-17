@@ -1,4 +1,6 @@
 ## [Others](../README.md)
+- Wang, Jun, and Gao, Mingfei and Hu, Yuqian and Selvaraju, Ramprasaath R. and Ramaiah, Chetan and Xu, Ran and JaJa, Joseph F. and Davis, Larry S.,**TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**,arXiv:2208.01813 [cs] 2022 [[Paper]](https://arxiv.org/abs/2208.01813)
+
 - Gamage, Bhanuka Manesha Samarasekara Vitharana and Hong, Lim Chern,**Improved RAMEN: Towards Domain Generalization for Visual Question Answering**,arXiv:2109.02370 [cs] 2021 [[Paper]](http://arxiv.org/abs/2109.02370)
 
 - Do, Tuong and Nguyen, Binh X. and Tjiputra, Erman and Tran, Minh and Tran, Quang D. and Nguyen, Anh,**Multiple Meta-model Quantifying for Medical Visual Question Answering**,arXiv:2105.08913 [cs] 2021 [[Paper]](http://arxiv.org/abs/2105.08913)
